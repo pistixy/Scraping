@@ -1,3 +1,4 @@
+"""
 from format_data import format_data
 from process_data import process_data
 from process_and_append_data import process_and_append_data
@@ -24,7 +25,21 @@ if __name__ == "__main__":
     process_data2(formatted_incorrect_data, temp_processed_data)
     append_data(temp_processed_data, formatted_correct_data)
 
+"""
+from alternative import process_data, add_mm_columns
 
 
- 
+# File paths
+input_filename = "D:/PhotonExport/Scraping/data/raw_data.txt"
+output_filename = "D:/PhotonExport/Scraping/data/output.txt"
+
+# Process the data
+process_data(input_filename, output_filename)
+# File paths
+input_filename = "D:/PhotonExport/Scraping/data/output.txt"
+output_filename = "D:/PhotonExport/Scraping/data/output_with_mm.txt"
+
+# Process the data
+add_mm_columns(input_filename, output_filename)
+
 
