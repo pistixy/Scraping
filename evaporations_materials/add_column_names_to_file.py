@@ -10,7 +10,7 @@ def add_column_names_to_file(filename, column_names):
     with open(filename, 'w', encoding='utf-8') as file:
         file.write(column_names_str + '\n' + content)
     
-    print("Couloumn names added!")
+    print("Couloumn names added to: ", filename)
     return True
 
 
