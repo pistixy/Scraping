@@ -29,25 +29,24 @@ if __name__ == "__main__":
 from alternative import process_data, add_mm_columns
 from get_links import get_links
 from scrape_and_save_data import scrape_and_save_data
+from add_column_names_to_file import add_column_names_to_file
 
 
 if __name__ == "__main__":
     url = 'https://www.lesker.com/materials-division.cfm?section=sputtering-targets'
     extracted_links="D:/PhotonExport/Scraping/data/extracted_links.txt"
     raw_data="D:/PhotonExport/Scraping/data/raw_data.txt"
-    get_links(url,extracted_links)
-    scrape_and_save_data(extracted_links,raw_data)
-
-
-    # File paths
-    output_filename = "D:/PhotonExport/Scraping/data/output.txt"
-
-    # Process the data
-    process_data(raw_data, output_filename)
-    input_filename = "D:/PhotonExport/Scraping/data/output.txt"
-    output_filename = "D:/PhotonExport/Scraping/data/Final_output.txt"
-
-    # Process the data
-    add_mm_columns(input_filename, output_filename)
-
+    if (get_links(url,extracted_links)):
+        if (scrape_and_save_data(extracted_links,raw_data)):
+            # File paths
+            output_filename = "D:/PhotonExport/Scraping/data/output.txt"
+            # Process the data
+            process_data(raw_data, output_filename)
+            input_filename = "D:/PhotonExport/Scraping/data/output.txt"
+            output_filename = "D:/PhotonExport/Scraping/data/Final_output.txt"
+            # Process the data
+            add_mm_columns(input_filename, output_filename)
+            filename = "D:/PhotonExport/Scraping/data/Final_output.txt"
+            column_names = ['Name', 'Material', 'Formula', 'Purity', 'Diameter mm','Diameter "', 'Thickness mm', 'Thickness "', 'Price', 'Rest']
+            add_column_names_to_file(filename, column_names)
 

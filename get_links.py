@@ -26,10 +26,16 @@ def get_links(url, file_path):
                 file.write(link + '\n')
 
         print(f'All links extracted and saved to {file_path}')
+        return True
 
     except requests.HTTPError as http_err:
         print(f'HTTP error occurred while retrieving {url}: {http_err}')
+        return False
+        
     except Exception as err:
         print(f'An error occurred while retrieving {url}: {err}')
+        return False
+    
+    
     
     

@@ -1,3 +1,4 @@
+Name,Material,Formula,Purity,Diameter mm,Diameter ",Thickness mm,Thickness ",Price,Rest
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT% 99.999% PURE,25.4,1.00",3.175,0.125",P.O.R.,   99.999% Most Standard Guns 1 EJTALCU501A2
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT% 99.999% PURE,25.4,1.00",6.35,0.250",P.O.R.,   99.999% Most Standard Guns 1 EJTALCU501A4
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT%,50.8,2.00",3.175,0.125",P.O.R.,  99.999% PURE   99.999% Most Standard Guns 1 EJTALCU502A2
@@ -73,7 +74,7 @@ Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,25.4,1.00",6.35,0.250",€95.00, A
 Aluminum,ALUMINUM TARGET,Aluminum,99.9995% PURE,25.4,1.00",6.35,0.250",€148.00, Al    99.999% Most Standard Guns 1
 Aluminum,ALUMINUM TARGET,Aluminum,99.999% PURE,33.019999999999996,1.30",6.35,0.250",P.O.R., Al     DRILLED AND TAPPED FOR 2-56  WITH KEEPER AND SCREW 99.999% U.S. Gun —
 Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,50.8,2.00",1.5875,0.0625",€106.00, Al   99.99% Most Standard Guns 1
-Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,50.8,2.00",3.175,0.125",€94.00, Al    99.99% Most Standard Guns 1
+Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,50.8,2.00",3.175,0.125",€91.00, Al    99.99% Most Standard Guns 1
 Aluminum,ALUMINUM TARGET,Aluminum,99.9995% PURE,50.8,2.00",3.175,0.125",€122.00, Al    99.999% Most Standard Guns 1
 Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,50.8,2.00",6.35,0.250",€110.00, Al    99.99% Most Standard Guns 1
 Aluminum,ALUMINUM TARGET,Aluminum,99.99% PURE,50.8,2.00",6.35,0.250",€237.00, Al    D&T 2−56 CENTER HOLE    W/ KEEPER 99.99% U.S. Gun —

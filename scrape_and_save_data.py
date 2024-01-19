@@ -45,4 +45,5 @@ def scrape_and_save_data(file_input_path, file_output_path):
             file.write(data + '\n')
 
     print(f'All data extracted and saved to {file_output_path}')
+    return True
 
