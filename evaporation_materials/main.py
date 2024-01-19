@@ -11,22 +11,21 @@ url='https://www.lesker.com/materials-division.cfm?section=evaporation-materials
 extracted_links="extracted_links.txt"
 raw_data="raw_data.txt"
 processed_data="processed_data.txt"
-output="output.txt"
+output="evaporation_materials.txt"
 final_output="final_output.txt"
-column_names = ['Name', 'Material', 'Formula','quantity', 'Purity', 'Diameter mm', 'Diameter "', 'Thickness mm', 'Thickness "', 'Price', 'Rest']
+column_names = ['Material', 'Name','Purity', 'Diameter "',  'Lenght "', 'Price', "Quaintity", 'Rest']
 
 current_folder=get_timestamp()
 if (is_folder_empty(base_folder_path)):
     create_folder(base_folder_path +"/"+current_folder)
 else:
-    copy_all_files(base_folder_path +"/"+get_latest_timestamp_folder("data"),base_folder_path +"/"+current_folder)
+    copy_all_files(base_folder_path +"/"+get_latest_timestamp_folder(base_folder_path),base_folder_path +"/"+current_folder)
 
 folder_path=base_folder_path +"/"+current_folder
 
 if (get_links(url,folder_path + "/" + extracted_links)):
     if (scrape_and_save_data(folder_path + "/" + extracted_links, folder_path + "/" + raw_data)):
         process_data(folder_path + "/" + raw_data, folder_path + "/" + processed_data)
-        add_mm_columns(folder_path + "/" + processed_data,  folder_path + "/" + output)
         add_column_names_to_file(folder_path + "/" + output, column_names)
         print("Successful scraping!")
         copy_output_to_data(base_folder_path +"/" + current_folder, base_folder_path, file_name=output)
