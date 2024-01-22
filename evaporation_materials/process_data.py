@@ -27,7 +27,7 @@ def process_data(input_filename, output_filename):
             for part in parts:
                 part_cleaned = part.strip()
                 # Assuming you have a list of materials called 'material_list'
-                if ('% PURE' in part or 'PURE'in part or '% pure' in part or '% Pure' in part):
+                if ('% PURE' in part or 'PURE'in part or '% pure' in part or '% Pure' in part or'PURITY' in part):
                     purity = part_cleaned
                     parts.remove(part)  # Remove the material part from the list
                     break  # Break out of the loop once the material is found
@@ -35,7 +35,7 @@ def process_data(input_filename, output_filename):
             for part in parts:
                 part_cleaned = part.strip()
                 # Assuming you have a list of materials called 'material_list'
-                if ('DIAMETER' in part or 'DIA'in part or 'dia' in part or 'LONG' in part or 'lenght' in part or 'long'in part or 'dia.' in part or 'LONG' in part):
+                if ('DIAMETER' in part or 'DIA'in part or 'dia' in part or 'LONG' in part or 'lenght' in part or 'long'in part or 'dia.' in part or 'LONG' in part or 'THICK' in part):
                     dimensions = part_cleaned
                     parts.remove(part)  # Remove the material part from the list
                     break  # Break out of the loop once the material is found
@@ -43,7 +43,7 @@ def process_data(input_filename, output_filename):
             for part in parts:
                 part_cleaned = part.strip()
                 # Assuming you have a list of materials called 'material_list'
-                if ('gram' in part or 'GRAM'in part or 'G' in part or 'pb' in part or 'lb' in part or 'lbs'in part or 'KILOGRAM.' in part or 'kg' in part or 'KG' in part):
+                if ('gram' in part or 'GRAM'in part or 'G' in part or 'pb' in part or 'lb' in part or 'lbs'in part or 'KILOGRAM' in part or 'KILOGRAMS' in part or 'KILOGRAM.'in part or 'kg' in part or 'KG' in part or 'Pieces' in part or 'GRAMS 'in part or 'PIECES' in part  ):
                     quantity = part_cleaned
                     parts.remove(part)  # Remove the material part from the list
                     break  # Break out of the loop once the material is found

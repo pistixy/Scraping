@@ -14,7 +14,6 @@ extracted_links="extracted_links.txt"
 raw_data="raw_data.txt"
 processed_data="processed_data.txt"
 output="output.txt"
-final_output="final_output.txt"
 column_names = ['Material', 'Name', 'Formula', 'Purity', 'Diameter mm', 'Diameter "', 'Thickness mm', 'Thickness "', 'Price', 'Rest']
 
 current_folder=get_timestamp()
