@@ -1,5 +1,5 @@
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 # URL of the page
 url = 'https://markets.ft.com/data/currencies/tearsheet/summary?s=EURUSD'
@@ -12,13 +12,14 @@ if response.status_code == 200:
     # Create a BeautifulSoup object and specify the parser
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Find the element containing the data you want to scrape
-    # Replace 'element_class' with the actual class you're looking for
-    data_elements = soup.find_all(class_='element_class')
+    a_tag = soup.find('a', class_="mod-ui-link", href="/data/currencies/tearsheet/summary?s=eurusd")
+    print(a_tag)
+    
+    EURUSD=a_tag.get_text()
+   
+    
+    with open('EURUSD/EURUSD.txt', 'w', encoding='utf-8') as file:
+        file.write(EURUSD)
 
-    # Extract and print the data
-    for element in data_elements:
-        print(element.get_text().strip())
 else:
-    print("Failed to retrieve the webpage")
-
+    print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
