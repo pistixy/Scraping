@@ -11,9 +11,9 @@ url='https://www.lesker.com/materials-division.cfm?section=evaporation-materials
 extracted_links="extracted_links.txt"
 raw_data="raw_data.txt"
 processed_data="processed_data.txt"
-output="evaporation_materials.txt"
+output="output.txt"
 final_output="final_output.txt"
-column_names = ['Material', 'Name','Purity', 'Diameter "',  'Lenght "', 'Price', "Quaintity", 'Rest']
+column_names = ['Material', 'Name','Purity', 'Purity "',  'Lenght mm "', 'Price', "Quaintity", 'Rest']
 
 current_folder=get_timestamp()
 if (is_folder_empty(base_folder_path)):

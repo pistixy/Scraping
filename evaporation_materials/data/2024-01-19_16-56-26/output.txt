@@ -1,4 +1,3 @@
-Material,Name,Purity,Purity ",Lenght mm ",Price,Quaintity,Rest
 Material,Name,Purity,Diameter ",Lenght ",Price,Quaintity,Rest
 Material,Name,Purity,Diameter ",Lenght ",Price,Quaintity,Rest
 Name,Material,Formula,quantity,Purity,Diameter mm,Diameter ",Thickness mm,Thickness ",Price,Rest

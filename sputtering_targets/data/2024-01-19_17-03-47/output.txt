@@ -1,4 +1,4 @@
-Material,Name,Formula,Purity,Diameter mm,Diameter ",Thickness mm,Thickness ",Price,Rest
+Name,Material,Formula,Purity,Diameter mm,Diameter ",Thickness mm,Thickness ",Price,Rest
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT% 99.999% PURE,25.4,1.00",3.175,0.125",P.O.R.,   99.999% Most Standard Guns 1 EJTALCU501A2
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT% 99.999% PURE,25.4,1.00",6.35,0.250",P.O.R.,   99.999% Most Standard Guns 1 EJTALCU501A4
 Aluminum Copper,ALUMINUM/COPPER TARGET,Aluminum Copper,Al/Cu 99/1 WT%,50.8,2.00",3.175,0.125",P.O.R.,  99.999% PURE   99.999% Most Standard Guns 1 EJTALCU502A2

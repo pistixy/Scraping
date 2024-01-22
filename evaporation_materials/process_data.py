@@ -3,8 +3,7 @@ def process_data(input_filename, output_filename):
 
     with open(input_filename, 'r', encoding='utf-8') as infile, open(output_filename, 'w', encoding='utf-8') as outfile:
         # Write the header to the output file
-        outfile.write('Material,Name,Formula,Purity,Price,Quantity,Rest\n')
-
+        
         for line in infile:
             parts = line.strip().split(',')
             name, material, purity, dimensions, quantity, price, rest = 'N/A', 'N/A', 'N/A', 'N/A', 'N/A', 'N/A', []
@@ -61,7 +60,7 @@ def process_data(input_filename, output_filename):
             rest = ' '.join(parts)  # Join the remaining parts with a comma
 
             # Write the processed data to the output file
-            outfile.write(f"{material},{name},{purity},{dimensions},{quantity},{price},{rest}\n")
+            outfile.write(f"{name},{material},{purity},{dimensions},{quantity},{price},{rest}\n")
 
     print(f"Data processing complete. Output saved to {output_filename}")
     return True
