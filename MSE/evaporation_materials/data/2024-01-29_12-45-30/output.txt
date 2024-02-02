@@ -1,0 +1,120 @@
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
+{'description': 'MSE PRO 5N (99.999%) Aluminum (Al) Pellets Evaporation Materials', 'price': '$ 45.00'}
+{'description': 'MSE PRO Grade 702 Zirconium (Zr) Pellets Evaporation Materials', 'price': '$ 106.90'}
+{'description': 'MSE PRO 5N (99.999%) Barium Fluoride (BaF2) Pieces (<3mm) Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 4N (99.99%) Zinc (Zn) Pellets Evaporation Materials', 'price': '$ 74.90'}
+{'description': 'MSE PRO 3N5 (99.95%) Chromium (Cr) Pieces Evaporation Materials', 'price': '$ 147.00'}
+{'description': 'MSE PRO 4N (99.99%) Silicon Dioxide (SiO2) Pieces Evaporation Materials', 'price': '$ 97.50'}
+{'description': 'MSE PRO 5N (99.999%) Copper (Cu) Pellets Evaporation Materials', 'price': '$ 69.00'}
+{'description': 'MSE PRO 4N (99.99%) Calcium Fluoride (CaF2) Pieces Evaporation Materials', 'price': '$ 132.00'}
+{'description': 'MSE PRO 3N (99.9%) Hafnium Oxide (HfO2) Pieces Evaporation Materials', 'price': '$ 245.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tungsten (W) Pellets Evaporation Materials', 'price': '$ 83.00'}
+{'description': 'MSE PRO 4N (99.99%) Strontium Fluoride (SrF2) Pieces (1-10mm) Evaporation Materials, 100g', 'price': '$ 372.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Tantalum (Ta) Pellets Evaporation Materials', 'price': '$ 169.00'}
+{'description': 'MSE PRO 3N (99.9%) Neodymium (Nd) Pieces (1-6mm) Evaporation Materials,100g', 'price': '$ 297.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Molybdenum (Mo) Pellets Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium Fluoride (MgF2) Pieces (1-3 mm) Evaporation Materials', 'price': '$ 139.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Magnesium (Mg) Pellets Evaporation Materials', 'price': '$ 159.00'}
+{'description': 'MSE PRO 3N5 (99.95%) Iron (Fe) Pellets Evaporation Materials', 'price': '$ 239.00'}
+{'description': 'MSE PRO 4N (99.99%) Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials', 'price': '$ 199.00'}
+{'description': 'MSE PRO 4N (99.99%) Cerium Oxide CeO2Pieces Evaporation Materials', 'price': '$ 237.50'}
+{'description': 'MSE PRO 4N (99.99%) Tin (Sn) Pellets Evaporation Materials', 'price': '$ 99.50'}
