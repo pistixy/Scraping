@@ -1,0 +1,16 @@
+import subprocess
+
+# Define the paths to the different main.py files relative to this master script
+subfolder_paths = [
+    'EURUSD/main.py',
+    'MSE/evaporation_materials/main.py',
+    'sputtering_targets/main.py',
+    'evaporation_materials/main.py'  # This seems redundant with the second path
+]
+
+# Iterate over each path and run the script using subprocess
+for path in subfolder_paths:
+    print(f"Running script at: {path}")
+    subprocess.run(['python', path], check=True)
+
+print("All scripts have been run.")

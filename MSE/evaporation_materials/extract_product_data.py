@@ -16,7 +16,7 @@ def extract_product_data(url):
         # Find all divs with class 'grid-item large--one-quarter medium--one-third small--one-half'
         product_divs = soup.find_all('div', class_='grid-item large--one-quarter medium--one-third small--one-half')
         
-        
+
         for div in product_divs:
             product_info = div.find('p')
             price_info = div.find('small')

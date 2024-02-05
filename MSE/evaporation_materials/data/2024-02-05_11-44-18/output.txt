@@ -1,0 +1,121 @@
+Material	Purity	Price	Description
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials
+MSE	Al	$ 45.00	 PRO 5N Aluminum Pellets Evaporation Materials
+MSE	Zr	$ 106.90	 PRO Grade 702 Zirconium Pellets Evaporation Materials
+MSE	<3mm	$ 169.00	 PRO 5N Barium Fluoride Pieces Evaporation Materials
+MSE	Zn	$ 74.90	 PRO 4N Zinc Pellets Evaporation Materials
+MSE	Cr	$ 147.00	 PRO 3N5 Chromium Pieces Evaporation Materials
+MSE	SiO2	$ 97.50	 PRO 4N Silicon Dioxide Pieces Evaporation Materials
+MSE	Cu	$ 69.00	 PRO 5N Copper Pellets Evaporation Materials
+MSE	CaF2	$ 132.00	 PRO 4N Calcium Fluoride Pieces Evaporation Materials
+MSE	HfO2	$ 245.00	 PRO 3N Hafnium Oxide Pieces Evaporation Materials
+MSE	W	$ 83.00	 PRO 3N5 Tungsten Pellets Evaporation Materials
+MSE	Sn	$ 99.50	 PRO 4N Tin Pellets Evaporation Materials
+MSE	1-10mm	$ 372.00	 PRO 4N Strontium Fluoride Pieces Evaporation Materials, 100g
+MSE	Ta	$ 169.00	 PRO 3N5 Tantalum Pellets Evaporation Materials
+MSE	1-6mm	$ 297.00	 PRO 3N Neodymium Pieces Evaporation Materials,100g
+MSE	Mo	$ 199.00	 PRO 3N5 Molybdenum Pellets Evaporation Materials
+MSE	MgF2	$ 139.00	 PRO 3N5 Magnesium Fluoride Pieces (1-3 mm) Evaporation Materials
+MSE	Mg	$ 159.00	 PRO 3N5 Magnesium Pellets Evaporation Materials
+MSE	Fe	$ 239.00	 PRO 3N5 Iron Pellets Evaporation Materials
+MSE	99.99%	$ 199.00	 PRO 4N Indium Tin Oxide (In2O3/SnO290/10 wt%) Pieces Evaporation Materials
+MSE	99.99%	$ 237.50	 PRO 4N Cerium Oxide CeO2Pieces Evaporation Materials

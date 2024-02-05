@@ -3,6 +3,8 @@ from extract_product_data import extract_product_data
 from get_links import get_links
 from copy_all_files import copy_all_files, get_latest_timestamp_folder, get_timestamp
 from is_folder_empty import is_folder_empty, create_folder
+from clean_and_write_data import clean_and_write_data
+from copy_output_to_data import copy_output_to_data
 
 # Define the base folder path relative to the current script location
 base_folder_path = "MSE/evaporation_materials/data"
@@ -32,7 +34,12 @@ all_product_data = []
 # Iterate through the links and extract product data
 for link in links:
     product_data = extract_product_data(link)
-    all_product_data.extend(product_data)  # Combine data from all pages
 
+    all_product_data.extend(product_data)  # Combine data from all pages
+clean_and_write_data(all_product_data,f"{folder_path}/{output_filename}")
+copy_output_to_data(f"{folder_path}",base_folder_path,"output.txt")
+    
 # Write the product data to a file within the current timestamped folder
-write_to_file(all_product_data, f"{folder_path}/{output_filename}")
+#write_to_file(all_product_data, f"{folder_path}/{output_filename}")
+
+
