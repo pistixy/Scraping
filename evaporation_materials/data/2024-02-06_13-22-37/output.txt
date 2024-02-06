@@ -1,55 +1,55 @@
 Name,Material,Purity,Diameter,Lenght,Price,Quantity,Rest
 ALUMINUM PELLETS,Aluminum,N/A,1/4" DIAMETER X 1/2" LONG,GRADE 1199,€75.00, Al    1 POUND 1/4" Dia. x 1/2" Length 1 lb. 99.95% EVMAL1199QXH,Diameter,Length
 ALUMINUM PELLETS,Aluminum,N/A,1/4" DIAMETER X 1/2" LONG,GRADE 1199,€75.00, Al    1 POUND 1/4" Dia. x 1/2" Length 1 lb. 99.95% EVMAL1199QXH,Diameter,Length
-ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,€300.00, Al    ONE POUND 1/4" Dia. x 1/2" Length 99.99% EVMAL40QXH,ONE POUND
+ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,€300.00, Al    ONE POUND 1/4" Dia. x 1/2" Length 99.99% EVMAL40QXH
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,€56.00, Al    1/4" Dia. x 1/2" Length 50 g 99.99% EVMAL40QXHB,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,€87.00, Al    1/4" Dia. x 1/2" Length 100 g 99.99% EVMAL40QXHD,100 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,P.O.R., AL    1/4" Dia. x 1/2" Length 250 g 99.99% EVMAL40QXHJ,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/2" long,P.O.R., Al    1/4" Dia. x 1/2" Length 1 kg 99.99% EVMAL40QXHKG,1 kg
-ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€305.00, Al    ONE POUND 1/4" Dia. x 1/2" Length 99.999% EVMAL50QXH,ONE POUND
+ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€305.00, Al    ONE POUND 1/4" Dia. x 1/2" Length 99.999% EVMAL50QXH
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€61.00, Al    1/4" Dia. x 1/2" Length 50 g 99.999% EVMAL50QXHB,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€92.00, Al    1/4" Dia. x 1/2" Length 100 g 99.999% EVMAL50QXHD,100 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€198.00, Al    1/4" Dia. x 1/2" Length 250 g 99.999% EVMAL50QXHJ,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/2" long,€599.00, Al    1/4" Dia. x 1/2" Length 1 kg 99.999% EVMAL50QXHKG,1 kg
-ALUMINUM PELLETS,Aluminum,N/A,1/4" diameter,1/4" long,€100.00, Al    1 POUND 1/4" Dia. x 1/4" Length 1 lb. 99.95% EVMAL1199QXQ,1 POUND
-ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,€279.00, Al    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMAL40QXQ,1 POUND
+ALUMINUM PELLETS,Aluminum,N/A,1/4" diameter,1/4" long,€100.00, Al    1 POUND 1/4" Dia. x 1/4" Length 1 lb. 99.95% EVMAL1199QXQ,1 lb.
+ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,€279.00, Al    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMAL40QXQ
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4"long,€38.00, Al    1/4" Dia. x 1/4" Length 25 g 99.99% EVMAL40QXQA,25 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,€52.00, Al    1/4" Dia. x 1/4" Length 50 g 99.99% EVMAL40QXQB,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,€80.00, Al    1/4" Dia. x 1/4" Length 100 g 99.99% EVMAL40QXQD,100 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,€164.00, Al    1/4" Dia. x 1/4" Length 250 g 99.99% EVMAL40QXQJ,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Al    1/4" Dia. x 1/4" Length 1 kg 99.99% EVMAL40QXQKG,1 kg
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/4" diameter,1/4"long,€330.00, Al    1/4" Dia. x 1/4" Length 500 g 99.99% EVMAL40QXQT,500 g
-ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€284.00, Al    1 POUND LOT 1/4" Dia. x 1/4" Length 99.999% EVMAL50QXQ,1 POUND
+ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€284.00, Al    1 POUND LOT 1/4" Dia. x 1/4" Length 99.999% EVMAL50QXQ
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€39.00, Al    1/4" Dia. x 1/4" Length 25 g 99.999% EVMAL50QXQ-A,25 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€52.00, Al    1/4" Dia. x 1/4" Length 50 g 99.999% EVMAL50QXQ-B,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€81.00, Al    1/4" Dia. x 1/4" Length 100 g 99.999% EVMAL50QXQ-D,100 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€168.00, Al    1/4" Dia. x 1/4" Length 250 g 99.999% EVMAL50QXQ-J,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,€312.00, Al     SEE DOCUMENT HANDLING NOTES FOR SPECIAL INSTRUCTIONS  +/-0.005” DIA  +/-0.020” LONG 1/4" Dia. x 1/4" Length 500 g 99.999% EVMAL50QXQ-T,500 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/4" diameter,1/4" long,P.O.R., Al    1/4" Dia. x 1/4" Length 1 kg 99.999% EVMAL50QXQKG,1 kg
-ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/4" long,P.O.R., Al    ONE POUND 1/8" Dia. x 1/4" Length 99.99% EVMAL40EXQ,ONE POUND
-ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,€437.00, Al    1 POUND 1/8" Dia. x 1/4" Length 99.999% EVMAL50EXQ,1 POUND
+ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/4" long,P.O.R., Al    ONE POUND 1/8" Dia. x 1/4" Length 99.99% EVMAL40EXQ
+ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,€437.00, Al    1 POUND 1/8" Dia. x 1/4" Length 99.999% EVMAL50EXQ
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,P.O.R., Al    1/8" Dia. x 1/4" Length 25 g 99.999% EVMAL50EXQA,25 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,€97.00, Al    1/8" Dia. x 1/4" Length 50 g 99.999% EVMAL50EXQB,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,€134.00, Al    1/8" Dia. x 1/4" Length 100 g 99.999% EVMAL50EXQD,100 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/4" long,€273.00, Al    1/8" Dia. x 1/4" Length 250 g 99.999% EVMAL50EXQJ,50 g
-ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€533.00, Al    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMAL40EXE,1 POUND
+ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€533.00, Al    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMAL40EXE
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€51.00, Al    1/8" Dia. x 1/8" Length 25 g 99.99% EVMAL40EXEA,25 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€83.00, Al    1/8" Dia. x 1/8" Length 50 g 99.99% EVMAL40EXEB,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€137.00, Al    1/8" Dia. x 1/8" Length 100 g 99.99% EVMAL40EXED,100 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,€321.00, Al    1/8" Dia. x 1/8" Length 250 g 99.99% EVMAL40EXEJ,50 g
 ALUMINUM PELLETS,Aluminum,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Al    1/8" Dia. x 1/8" Length 1 kg 99.99% EVMAL40EXEKG,1 kg
-ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€676.00, Al    1 POUND 1/8" Dia. x 1/8" Length 99.999% EVMAL50EXE,1 POUND
+ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€676.00, Al    1 POUND 1/8" Dia. x 1/8" Length 99.999% EVMAL50EXE
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€59.00, Al    1/8" Dia. x 1/8" Length 25 g 99.999% EVMAL50EXEA,25 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€95.00, Al    1/8" Dia. x 1/8" Length 50 g 99.999% EVMAL50EXEB,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€168.00, Al    1/8" Dia. x 1/8" Length 100 g 99.999% EVMAL50EXED,100 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€312.00, Al    1/8" Dia. x 1/8" Length 200 g 99.999% EVMAL50EXEH,200 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,€383.00, Al    1/8" Dia. x 1/8" Length 250 g 99.999% EVMAL50EXEJ,50 g
 ALUMINUM PELLETS,Aluminum,99.999% PURE,1/8" diameter,1/8" long,P.O.R., Al    1/8" Dia. x 1/8" Length 1 kg 99.999% EVMAL50EXEKG,1 kg
-ALUMINUM WIRE,Aluminum,99.99% PURE,N/A,N/A,€4.00, Al    PER FOOT  MIN. 10 FOOT ORDER 1.0 mm (0.040") Dia. 1 ft. 99.99% EVMAL40040,PER FOOT
+ALUMINUM WIRE,Aluminum,99.99% PURE,N/A,N/A,€4.00, Al    PER FOOT  MIN. 10 FOOT ORDER 1.0 mm (0.040") Dia. 1 ft. 99.99% EVMAL40040,per foot
 ALUMINUM WIRE,Aluminum,99.999% PURE,1mm diameter,100 meters,€415.00, Al   1.0 mm (0.040") Dia. 100 m 99.999% EVMAL50040
 ALUMINUM WIRE,Aluminum,99.999% PURE,N/A,N/A,€175.00, Al    50 FEET ON SPOOL   ANNEALED 1.0 mm (0.040") Dia. 50 ft. 99.999% EVMAL5004050FT
-ALUMINUM WIRE,Aluminum,99.999% PURE,N/A,N/A,€5.00, Al    SOLD PER FOOT  5 FOOT MINIMUM ORDER 1.0 mm (0.040") Dia. 1 ft. 99.999% EVMAL50040FT,PER FOOT
-ALUMINUM WIRE,Aluminum,99.99% PURE,N/A,N/A,P.O.R., Al    1 POUND ON SPOOL 1.5 mm (0.060") Dia. 99.99% EVMAL40060,1 POUND
+ALUMINUM WIRE,Aluminum,99.999% PURE,N/A,N/A,€5.00, Al    SOLD PER FOOT  5 FOOT MINIMUM ORDER 1.0 mm (0.040") Dia. 1 ft. 99.999% EVMAL50040FT,per foot
+ALUMINUM WIRE,Aluminum,99.99% PURE,N/A,N/A,P.O.R., Al    1 POUND ON SPOOL 1.5 mm (0.060") Dia. 99.99% EVMAL40060
 ALUMINUM WIRE,Aluminum,99.999% PURE,0.062" diameter,1 pound spool,€869.00, Al   1.5 mm (0.060") Dia. 99.999% EVMAL50.062
 ALUMINUM WIRE,Aluminum,99.999% PURE,2mm diameter,10 meters long,P.O.R., Al    +/-0.075MM DIAMETER 2.0 mm (0.080") Dia. 10 m 99.999% EVMAL502MM+
 N/A,Aluminum,99.88% PURE,N/A,N/A,P.O.R.,ALUMINUM CANE  Al    24 LBS/ BOX 222–232 mg 24-lb. Box 99.88% — EVMAL1188227,24-lb
@@ -76,13 +76,13 @@ ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,€59.00, Al2O3    50 G
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,€106.00, Al2O3    100 GRAMS  CLEAR  POLYCRYSTALLINE 1mm - 3mm Pieces 100 g 99.99% EVMALO1-3MMD,100 g
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    1KG LOT  CLEAR  POLYCRYSTALLINE 1mm - 3mm Pieces 1 kg 99.99% EVMALO1-3MMKG,1 kg
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    CLEAR  POLYCRYSTALLINE  500 GRAMS 1mm - 3mm Pieces 500 g 99.99% EVMALO1-3MMT,500 g
-ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    1 POUND  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 1 lb 99.99% EVMALO-1220,1 POUND
+ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    1 POUND  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 1 lb 99.99% EVMALO-1220
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,€70.00, Al2O3    25 GRAMS  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 25 g 99.99% EVMALO-1220A,25 g
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,€101.00, Al2O3    50 GRAMS  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 50 g 99.99% EVMALO-1220B,50 g
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,€187.00, Al2O3    100 GRAMS  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 100 g 99.99% EVMALO-1220D,100 g
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    1 KILOGRAM  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 1 kg 99.99% EVMALO-1220KG,1 kg
 ALUMINUM OXIDE PIECES,Aluminum Oxide,99.99% PURE,N/A,N/A,P.O.R., Al2O3    500 GRAMS  CLEAR  SINGLE CRYSTAL SAPPHIRE 1mm - 5mm Pieces 500 g 99.99% EVMALO-1220T,500 g
-ANTIMONY PIECES,Antimony,99.999% PURE,N/A,N/A,P.O.R., Sb   1-3MM SHOT  1 POUND 1 lb. 99.999% EVMSB501141,1 POUND
+ANTIMONY PIECES,Antimony,99.999% PURE,N/A,N/A,P.O.R., Sb   1-3MM SHOT  1 POUND 1 lb. 99.999% EVMSB501141,1 lb.
 ANTIMONY PIECES,Antimony,99.999% PURE,N/A,N/A,P.O.R., Sb   1-3MM SHOT  1mm - 3mm Pieces 25 g 99.999% EVMSB501141A,25 g
 ANTIMONY PIECES,Antimony,99.999% PURE,N/A,N/A,€157.00, Sb   1-3MM SHOT  1mm - 3mm Pieces 50 g 99.999% EVMSB501141B,50 g
 ANTIMONY PIECES,Antimony,99.999% PURE,N/A,N/A,P.O.R., Sb    100 GRAMS 1mm - 3mm Pieces 100 g 99.999% EVMSB501141D,100 g
@@ -110,7 +110,7 @@ BORON CARBIDE PIECES,Boron Carbide,99.5% PURE,N/A,N/A,P.O.R., B4C    500 GRAMS 3
 CALCIUM PIECES,Calcium,99% PURE,N/A,N/A,P.O.R., Ca    25 GRAMS  PACKAGED IN MINERAL OIL  HAZARDOUS SHIPPING Approximately 3mm 25 g 99% EVMCAX203MMA,25 g
 CALCIUM PIECES,Calcium,99% PURE,N/A,N/A,P.O.R., Ca    50 GRAMS  PACKAGED IN MINERAL OIL  HAZARDOUS SHIPPING Approximately 3mm 50 g 99% EVMCAX203MMB,50 g
 CALCIUM PIECES,Calcium,99% PURE,N/A,N/A,P.O.R., Ca    100 GRAMS  PACKAGED IN MINERAL OIL  HAZARDOUS SHIPPING Approximately 3mm 100 g 99% EVMCAX203MMD,100 g
-CALCIUM FLUORIDE PIECES,Calcium Fluoride,99.99% PURE,N/A,N/A,P.O.R., CaF2    CRYSTALLINE  1 KILOGRAM LOT 1-4mm Pieces  Crystalline 1kg 99.99% EVMCAF1-4KG,1 kilogram
+CALCIUM FLUORIDE PIECES,Calcium Fluoride,99.99% PURE,N/A,N/A,P.O.R., CaF2    CRYSTALLINE  1 KILOGRAM LOT 1-4mm Pieces  Crystalline 1kg 99.99% EVMCAF1-4KG
 CALCIUM FLUORIDE PIECES,Calcium Fluoride,99.99% PURE,N/A,N/A,P.O.R., CaF2    25 GRAMS  CRYSTALLINE 1mm - 4mm 25g 99.99% EVMCAF1-4A,25 g
 CALCIUM FLUORIDE PIECES,Calcium Fluoride,99.99% PURE,N/A,N/A,P.O.R., CaF2    50 GRAMS 1mm - 4mm 50g 99.99% EVMCAF1-4B,50 g
 CALCIUM FLUORIDE PIECES,Calcium Fluoride,99.99% PURE,N/A,N/A,P.O.R., CaF2    100 GRAMS 1mm - 4mm 100g 99.99% EVMCAF1-4D,100 g
@@ -121,11 +121,11 @@ CERIUM PIECES,Cerium,99.9% PURE TREM,N/A,N/A,P.O.R., Ce    25 GRAMS  PACKAGED IN
 CERIUM PIECES,Cerium,99.9% PURE TREM,N/A,N/A,P.O.R., Ce    250 GRAMS  PACKAGED IN MINERAL OIL  HAZARDOUS SHIPPING 2mm - 6mm Pieces 250 g 99.9% EVMCEX2-6MMJ,50 g
 CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    50 GRAMS 1mm - 4mm 50g 99.99% EVMCEO1-4B,50 g
 CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    100 GRAMS 1mm - 4mm 100g 99.99% EVMCEO1-4D,100 g
-CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    1 KILOGRAM LOT 1mm - 4mm 1kg 99.99% EVMCEO1-4KG,1 kilogram
+CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    1 KILOGRAM LOT 1mm - 4mm 1kg 99.99% EVMCEO1-4KG
 CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    25 GRAMS 1mm - 4mm 25g 99.99% EVMCEO1-4MMA,25 g
 CERIUM OXIDE PIECES,Cerium Oxide,99.99% PURE,N/A,N/A,P.O.R., CeO2    500 GRAMS 1mm - 4mm 500g 99.99% EVMCEO1-4T,500 g
-CHROME/SILICON MONOXIDE PIECES,N/A,99.95% PURE,N/A,N/A,€1.02,Chrome/Silicon Monoxide  Cr/SiO  70/30 WT%    SINTERED  PER GRAM 1mm - 4mm Per Gram 99.95% EVMCRSIO351-4MMX,PER GRAM
-CHROMIUM PIECES,Chromium,Cr 99.95% PURE,N/A,N/A,€175.00,   1 POUND 0.8mm - 6mm Pieces 1 lb. 99.95% EVMCR35,1 POUND
+CHROME/SILICON MONOXIDE PIECES,N/A,99.95% PURE,N/A,N/A,€1.02,Chrome/Silicon Monoxide  Cr/SiO  70/30 WT%    SINTERED  PER GRAM 1mm - 4mm Per Gram 99.95% EVMCRSIO351-4MMX,per gram
+CHROMIUM PIECES,Chromium,Cr 99.95% PURE,N/A,N/A,€175.00,   1 POUND 0.8mm - 6mm Pieces 1 lb. 99.95% EVMCR35,1 lb.
 CHROMIUM PIECES,Chromium,Cr 99.95% PURE,N/A,N/A,€35.00,   25 GRAMS 0.8mm - 6mm Pieces 25 g 99.95% EVMCR35A,25 g
 CHROMIUM PIECES,Chromium,99.95% PURE,N/A,N/A,€39.00, Cr    50 GRAMS 0.8mm - 6mm Pieces 50 g 99.95% EVMCR35B,50 g
 CHROMIUM PIECES,Chromium,99.95% PURE,N/A,N/A,€48.00, Cr    100 GRAMS 0.8mm - 6mm Pieces 100 g 99.95% EVMCR35D,100 g
@@ -135,21 +135,21 @@ CHROMIUM PIECES,Chromium,99.95% PURE,N/A,N/A,€153.00, Cr    500 GRAMS 0.8mm - 
 CHROME PLATED TUNGSTEN ROD,Chrome Plated Tungsten,N/A,2" long,0.050" diameter rod,€47.00,  FOR Cr EVAPORATION   W/ CLEAN/FLUSH ENDS 5 1.05 78 82 1800 °C EVSCRW1
 CHROME PLATED TUNGSTEN ROD,Chrome Plated Tungsten,N/A,4" long,0.050" diameter rod,€53.00,  FOR Cr EVAPORATION   W/ CLEAN/FLUSH ENDS 5 2.02 78 158 1800 °C EVSCRW2
 CHROME PLATED TUNGSTEN ROD,Chrome Plated Tungsten,N/A,6" long,0.050" diameter rod,€79.00,  FOR Cr EVAPORATION   W/ CLEAN/FLUSH ENDS 5 2.40 77 158 1800 °C EVSCRW3
-CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   1 POUND 2 mm - 6 mm Pieces 1 lb. 99.9% EVMCROX3-6MM,1 POUND
+CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   1 POUND 2 mm - 6 mm Pieces 1 lb. 99.9% EVMCROX3-6MM,1 lb.
 CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   25 GRAMS 2 mm - 6 mm Pieces 25 G 99.9% EVMCROX3-6MMA,25 g
 CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   50 GRAMS 2 mm - 6 mm Pieces 50 G 99.9% EVMCROX3-6MMB,50 g
 CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   100 GRAMS 2 mm - 6 mm Pieces 100 G 99.9% EVMCROX3-6MMD,100 g
 CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,€284.00,  2 mm - 6 mm Pieces 250 G 99.9% EVMCROX3-6MMJ,50 g
 CHROMIUM OXIDE PIECES,Chromium Oxide,99.9% PURE,N/A,N/A,P.O.R., Cr2O3    1 KG LOT 2 mm - 6 mm Pieces 1 kg 99.9% EVMCROX3-6MMKG,1 kg
 CHROMIUM OXIDE PIECES,Chromium Oxide,Cr2O3 99.9% PURE,N/A,N/A,P.O.R.,   500 GRAMS 2 mm - 6 mm Pieces 500 G 99.9% EVMCROX3-6MMT,500 g
-COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4" long,€553.00, Co    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMCO35QXQ,1 POUND
+COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4" long,€553.00, Co    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMCO35QXQ
 COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4" long,€56.00, Co    1/4" Dia. x 1/4" Length 25 g 99.95% EVMCO35QXQA,25 g
 COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4" long,€82.00, Co    1/4" Dia. x 1/4" Length 50 g 99.95% EVMCO35QXQB,50 g
 COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4" long,€157.00, Co    1/4" Dia. x 1/4" Length 100 g 99.95% EVMCO35QXQD,100 g
 COBALT PELLETS,Cobalt,99.95% PURE,1/4" diameter,1/4"long,€321.00, Co    1/4" Dia. x 1/4" Length 250 g 99.95% EVMCO35QXQJ,50 g
 COBALT PELLETS,Cobalt,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Co    1/4" Dia. x 1/4" Length 25 g 99.99% EVMCO40QXQA,25 g
 COBALT PELLETS,Cobalt,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Co    1/4" Dia. x 1/4" Length 100 g 99.99% EVMCO40QXQD,100 g
-COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€2, Co    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMCO35EXE 389.00,1 POUND
+COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€2, Co    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMCO35EXE 389.00
 COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€147.00, Co    1/8" Dia. x 1/8" Length 25 g 99.95% EVMCO35EXEA,25 g
 COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€290.00, Co    1/8" Dia. x 1/8" Length 50 g 99.95% EVMCO35EXEB,50 g
 COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€553.00, Co    1/8" Dia. x 1/8" Length 100 g 99.95% EVMCO35EXED,100 g
@@ -157,31 +157,31 @@ COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,€1, Co    1/8" Dia. 
 COBALT PELLETS,Cobalt,99.95% PURE,1/8" diameter,1/8" long,P.O.R., Co    1/8" Dia. x 1/8" Length 500 g 99.95% EVMCO35EXET,500 g
 COBALT PELLETS,Cobalt,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Co    1/8" Dia. x 1/8" Length 25 g 99.99% EVMCO40EXEA,25 g
 COBALT PELLETS,Cobalt,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Co    1/8" Dia. x 1/8" Length 100 g 99.99% EVMCO40EXED,100 g
-COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/2" long,€72.00, Cu    1 POUND LOT 1/4" Dia. x 1/2" Length 99.99% EVMCU40QXH,1 POUND
-COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/2" long,P.O.R., Cu    1 POUND 1/4" Dia. x 1/2" Length 99.999% EVMCU50QXH,1 POUND
-COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€116.00, Cu    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMCU40QXQ,1 POUND
+COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/2" long,€72.00, Cu    1 POUND LOT 1/4" Dia. x 1/2" Length 99.99% EVMCU40QXH
+COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/2" long,P.O.R., Cu    1 POUND 1/4" Dia. x 1/2" Length 99.999% EVMCU50QXH
+COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€116.00, Cu    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMCU40QXQ
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€36.00, Cu    1/4" Dia. x 1/4" Length 25 g 99.99% EVMCU40QXQA,25 g
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€34.00, Cu    1/4" Dia. x 1/4" Length 50 g 99.99% EVMCU40QXQB,50 g
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€39.00, Cu    1/4" Dia. x 1/4" Length 100 g 99.99% EVMCU40QXQD,100 g
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,€87.00, Cu    1/4" Dia. x 1/4" Length 250 g 99.99% EVMCU40QXQJ,50 g
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Cu    1/4" Dia. x 1/4" Length 1 kg 99.99% EVMCU40QXQKG,1 kg
 COPPER PELLETS,Copper,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Cu    1/4" Dia. x 1/4" Length 500 g 99.99% EVMCU40QXQT,500 g
-COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€309.00, Cu    ONE POUND 1/4" Dia. x 1/4" Length 99.999% EVMCU50QXQ,ONE POUND
+COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€309.00, Cu    ONE POUND 1/4" Dia. x 1/4" Length 99.999% EVMCU50QXQ
 COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€44.00, Cu    1/4" Dia. x 1/4" Length 25 g 99.999% EVMCU50QXQA,25 g
 COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€68.00, Cu    1/4" Dia. x 1/4" Length 50 g 99.999% EVMCU50QXQB,50 g
 COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€94.00, Cu    1/4" Dia. x 1/4" Length 100 g 99.999% EVMCU50QXQD,100 g
 COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,€201.00, Cu    1/4" Dia. x 1/4" Length 250 g 99.999% EVMCU50QXQJ,50 g
 COPPER PELLETS,Copper,99.999% PURE,1/4" diameter,1/4" long,P.O.R., Cu    1/4" Dia. x 1/4" Length 1 kg 99.999% EVMCU50QXQKG,1 kg
-COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/4" long,€164.00, Cu    1 POUND 1/8" Dia. x 1/4" Length 99.99% EVMCU40EXQ,1 POUND
+COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/4" long,€164.00, Cu    1 POUND 1/8" Dia. x 1/4" Length 99.99% EVMCU40EXQ
 COPPER PELLETS,Copper,99.99%+ PURE,1/8" diameter,1/4" long,€401.00, Cu    1/8" Dia. x 1/4" Length 1 kg 99.99% EVMCU40EXQKG,1 kg
-COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,€337.00, Cu    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMCU40EXE,1 POUND
+COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,€337.00, Cu    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMCU40EXE
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,€41.00, Cu    1/8" Dia. x 1/8" Length 25 g 99.99% EVMCU40EXEA,25 g
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,€59.00, Cu    1/8" Dia. x 1/8" Length 50 g 99.99% EVMCU40EXEB,50 g
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8"long,€96.00, Cu    1/8" Dia. x 1/8" Length 100 g 99.99% EVMCU40EXED,100 g
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,€229.00, Cu    1/8" Dia. x 1/8" Length 250 g 99.99% EVMCU40EXEJ,50 g
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Cu    1/8" Dia. x 1/8" Length 1 kg 99.99% EVMCU40EXEKG,1 kg
 COPPER PELLETS,Copper,99.99% PURE,1/8" diameter,1/8"long,P.O.R., Cu    1/8" Dia. x 1/8" Length 500 g 99.99% EVMCU40EXET,500 g
-COPPER PELLETS,Copper,99.999% PURE,1/8" diameter,1/8" long,€679.00, Cu    1 POUND 1/8" Dia. x 1/8" Length 99.999% EVMCU50EXE,1 POUND
+COPPER PELLETS,Copper,99.999% PURE,1/8" diameter,1/8" long,€679.00, Cu    1 POUND 1/8" Dia. x 1/8" Length 99.999% EVMCU50EXE
 COPPER PELLETS,Copper,99.999% PURE,1/8" diameter,1/8" long,€61.00, Cu    1/8" Dia. x 1/8" Length 25 g 99.999% EVMCU50EXEA,25 g
 COPPER PELLETS,Copper,99.999% PURE,1/8" diameter,1/8" long,€110.00, Cu    1/8" Dia. x 1/8" Length 50 g 99.999% EVMCU50EXEB,50 g
 COPPER PELLETS,Copper,99.999% PURE,1/8" diameter,1/8" long,€206.00, Cu    1/8" Dia. x 1/8" Length 100 g 99.999% EVMCU50EXED,100 g
@@ -200,17 +200,17 @@ GERMANIUM PIECES,Germanium,99.999% PURE,N/A,N/A,P.O.R.,   ~3-6MM PIECES  N-TYPE 
 GERMANIUM PIECES,Germanium,99.999% PURE,N/A,N/A,P.O.R.,   3MM-6MM PIECES  N-TYPE 5-40 OHM-CM RESISTIVITY  500 GRAMS 3-6mm Pieces 500g 99.999% EVMGE50500T,500 g
 N/A,Gold,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Au    SOLD PER PELLET  MINIMUM OF 3.25 GRAMS/PELLET  AVERAGE WEIGHT 3.7 GRAMS/PELLET 1/4" Dia. x 1/4" Length per pellet 99.99% EVMAU40QXQ,25 g
 N/A,Gold,99.999% PURE,1/4" (6.35mm) diameter,1/4" (6.35mm) long,€347.00, Au    SOLD PER PELLET  MINIMUM OF 3.25 GRAMS/PELLET  AVERAGE WEIGHT 3.7 GRAMS/PELLET 1/4" Dia. x 1/4" Length per pellet 99.999% EVMAU50QXQ,25 g
-GOLD PELLETS,Gold,99.99% PURE,1/8" diameter,1/8" long,€85.10, Au    1/8" Dia. x 1/8" Length per gram 99.99% EVMAUXX40G,PER GRAM
-GOLD PELLETS,Gold,99.999% PURE,1/8" diameter,1/8" long,€87.15, Au    1/8" Dia. x 1/8" Length per gram 99.999% EVMAUXX50G,PER GRAM
-GOLD SHOT,Gold,99.99% PURE,N/A,N/A,P.O.R., Au    SOLD PER GRAM Up to 4 mm Pieces per gram 99.99% EVMAU40SHOT,PER GRAM
-GOLD SHOT,Gold,99.999% PURE,N/A,N/A,P.O.R., Au    SOLD PER GRAM. Up to 4 mm Pieces per gram 99.999% EVMAU50SHOT,PER GRAM
-GOLD WIRE,Gold,99.99% PURE,N/A,N/A,€113.00, Au    0.5mm Dia. Wire per foot 99.99% EVMAU40020,PER FOOT
-GOLD WIRE,Gold,99.99% PURE 1 mm DIAMETER,N/A,N/A,€97.00, Au   1mm Dia. Wire per gram 99.99% EVMAU40040,PER GRAM
+GOLD PELLETS,Gold,99.99% PURE,1/8" diameter,1/8" long,€85.10, Au    1/8" Dia. x 1/8" Length per gram 99.99% EVMAUXX40G,per gram
+GOLD PELLETS,Gold,99.999% PURE,1/8" diameter,1/8" long,€87.15, Au    1/8" Dia. x 1/8" Length per gram 99.999% EVMAUXX50G,per gram
+GOLD SHOT,Gold,99.99% PURE,N/A,N/A,P.O.R., Au    SOLD PER GRAM Up to 4 mm Pieces per gram 99.99% EVMAU40SHOT,per gram
+GOLD SHOT,Gold,99.999% PURE,N/A,N/A,P.O.R., Au    SOLD PER GRAM. Up to 4 mm Pieces per gram 99.999% EVMAU50SHOT,per gram
+GOLD WIRE,Gold,99.99% PURE,N/A,N/A,€113.00, Au    0.5mm Dia. Wire per foot 99.99% EVMAU40020,per foot
+GOLD WIRE,Gold,99.99% PURE 1 mm DIAMETER,N/A,N/A,€97.00, Au   1mm Dia. Wire per gram 99.99% EVMAU40040,per gram
 GOLD/GERMANIUM PELLETS,Gold Germanium,99.97% PURE,approx 1/4" diameter,1/4" long,P.O.R.,    2.95 GR/PELL  SOLD PER PELLET 1/4" Dia. x 1/4" Length per pellet (approx. 2.95 grams each) 99.97% EVMAUGE40QXQ
-GOLD/GERMANIUM PELLETS,Gold Germanium,99.97% PURE,1/8" diameter,1/8" long,€115.00,    SOLD PER GRAM 1/8" Dia. x 1/8" Length per gram 99.97% EVMAUGE40EXE,PER GRAM
+GOLD/GERMANIUM PELLETS,Gold Germanium,99.97% PURE,1/8" diameter,1/8" long,€115.00,    SOLD PER GRAM 1/8" Dia. x 1/8" Length per gram 99.97% EVMAUGE40EXE,per gram
 GOLD/TIN PELLETS,Gold Tin,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Au/Sn 80/20 WT %     MOQ 25 GRAMS 1/8" Dia. x 1/8" Length per gram 99.99% EVMAUSN8020,25 g
-HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/2" long,P.O.R.,EUDF   Hf    1 POUND 1/4" Dia. x 1/2" Length 99.9% Ex Zr EVMHF30QXH,1 POUND
-HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R.,EUDF   Hf    1 POUND 1/4" Dia. x 1/4" Length 99.9% Ex Zr EVMHF30QXQ,1 POUND
+HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/2" long,P.O.R.,EUDF   Hf    1 POUND 1/4" Dia. x 1/2" Length 99.9% Ex Zr EVMHF30QXH
+HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R.,EUDF   Hf    1 POUND 1/4" Dia. x 1/4" Length 99.9% Ex Zr EVMHF30QXQ
 HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R.,EUDF   Hf    1/4" Dia. x 1/4" Length 25 g 99.9% Ex Zr EVMHF30QXQA,25 g
 HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R.,EUDF   Hf    1/4" Dia. x 1/4" Length 50 g 99.9% Ex Zr EVMHF30QXQB,50 g
 HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R.,EUDF   Hf    1/4" Dia. x 1/4" Length 100 g 99.9% Ex Zr EVMHF30QXQD,100 g
@@ -218,7 +218,7 @@ EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R., Hf
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R., Hf    1/4" Dia. x 1/4" Length 200 g 99.9% Ex Zr EVMHF30QXQH,200 g
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/4" diameter,1/4" long,P.O.R., Hf    1/4" Dia. x 1/4" Length 250 g 99.9% Ex Zr EVMHF30QXQJ,50 g
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE (Ex Zr),1/4" diameter,1/4" long,P.O.R., Hf    1/4" Dia. x 1/4" Length 1 kg 99.9% Ex Zr EVMHF30QXQKG,1 kg
-EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/8" diameter,1/8" long,P.O.R., Hf    1 POUND 1/8" Dia. x 1/8" Length 99.9% Ex Zr EVMHF30EXE,1 POUND
+EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/8" diameter,1/8" long,P.O.R., Hf    1 POUND 1/8" Dia. x 1/8" Length 99.9% Ex Zr EVMHF30EXE
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/8" diameter,1/8" long,P.O.R., Hf    1/8" Dia. x 1/8" Length 25 g 99.9% Ex Zr EVMHF30EXEA,25 g
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/8" diameter,1/8" long,P.O.R., Hf    1/8" Dia. x 1/8" Length 50 g 99.9% Ex Zr EVMHF30EXEB,50 g
 EUDF HAFNIUM PELLETS,Hafnium,99.9% PURE EX Zr,1/8" diameter,1/8" long,P.O.R., Hf    1/8" Dia. x 1/8" Length 100 g 99.9% Ex Zr EVMHF30EXED,100 g
@@ -232,15 +232,15 @@ EUDF HAFNIUM OXIDE TABLETS,Hafnium Oxide,99.9% PURE,10-12mm diameter,4-5mm thick
 EUDF HAFNIUM OXIDE PIECES,Hafnium Oxide,99.9% PURE,N/A,N/A,P.O.R., HfO2    50 GRAMS  WHITE  SINTERED 1mm - 3mm Pieces 50 g 99.9% EVMHFO21-3B,50 g
 EUDF HAFNIUM OXIDE PIECES,Hafnium Oxide,99.9% PURE,N/A,N/A,P.O.R.,   100 GRAMS  WHITE  SINTERED 1mm - 3mm Pieces 100 g 99.9% EVMHFO21-3D,100 g
 EUDF HAFNIUM OXIDE PIECES,Hafnium Oxide,99.9% PURE,N/A,N/A,P.O.R., HfO2    200 GRAMS  WHITE  SINTERED 1mm - 3mm Pieces 200 g 99.9% EVMHFO21-3H,200 g
-INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/2" long,€924.00, In    1 POUND 1/4" Dia. x 1/2" Length 99.99% EVMIN40QXH,1 POUND
-INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€673.00, In    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMIN40QXQ,1 POUND
+INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/2" long,€924.00, In    1 POUND 1/4" Dia. x 1/2" Length 99.99% EVMIN40QXH
+INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€673.00, In    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMIN40QXQ
 INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€62.00, In    1/4" Dia. x 1/4" Length 25 g 99.99% EVMIN40QXQA,25 g
 INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€98.00, In    1/4" Dia. x 1/4" Length 50 g 99.99% EVMIN40QXQB,50 g
 INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€170.00, In    1/4" Dia. x 1/4" Length 100 g 99.99% EVMIN40QXQD,100 g
 INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,P.O.R., In    1/4" Dia. x 1/4" Length 1 kg 99.99% EVMIN40QXQKG,1 kg
 INDIUM PELLETS,Indium,99.99% PURE,1/4" diameter,1/4" long,€738.00, In    1/4" Dia. x 1/4" Length 500 g 99.99% EVMIN40QXQT,500 g
 INDIUM PELLETS,Indium,99.998%-99.999% PURE,1/4" diameter,1/4" long,P.O.R., In    1/4" Dia. x 1/4" Length 100 g 99.998-99.999% EVMIN50QXQD,100 g
-INDIUM PELLETS,Indium,99.98-99.99% PURE,1/8" diameter,1/8" long,€865.00, In    1 POUND 1/8" Dia. x 1/8" Length 99.98-99.99% EVMIN40EXE,1 POUND
+INDIUM PELLETS,Indium,99.98-99.99% PURE,1/8" diameter,1/8" long,€865.00, In    1 POUND 1/8" Dia. x 1/8" Length 99.98-99.99% EVMIN40EXE
 INDIUM PELLETS,Indium,99.98-99.99% PURE,1/8" diameter,1/8" long,€88.00, In    1/8" Dia. x 1/8" Length 25 g 99.98-99.99% EVMIN40EXEA,25 g
 INDIUM PELLETS,Indium,99.98-99.99% PURE,1/8" diameter,1/8" long,€182.00, In    1/8" Dia. x 1/8" Length 50 g 99.98-99.99% EVMIN40EXEB,50 g
 INDIUM PELLETS,Indium,99.98-99.99% PURE,1/8" diameter,1/8"long,€262.00, In    1/8" Dia. x 1/8" Length 100 g 99.98-99.99% EVMIN40EXED,100 g
@@ -262,7 +262,7 @@ IRIDIUM PIECES,Iridium,99.9% PURE,N/A,N/A,P.O.R., Ir    50 GRAMS 50g 99.9% EVMIR
 IRIDIUM PIECES,Iridium,99.9% PURE,N/A,N/A,P.O.R., Ir    75 GRAMS 75g 99.9% EVMIR3036C,75 g
 IRIDIUM PIECES,Iridium,99.9% PURE,N/A,N/A,P.O.R., Ir    100 GRAMS 100g 99.9% EVMIR3036D,100 g
 IRIDIUM PIECES,Iridium,99.9% PURE 3-6MM PIECES,N/A,N/A,P.O.R., Ir   200g 99.9% EVMIR3036H,200g
-IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,€300.00, Fe    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMFE35QXQ,1 POUND
+IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,€300.00, Fe    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMFE35QXQ
 IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,P.O.R., Fe    1/4" Dia. x 1/4" Length 25 g 99.95% EVMFE35QXQA,25 g
 IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,€67.00, Fe    1/4" Dia. x 1/4" Length 50 g 99.95% EVMFE35QXQB,50 g
 IRON PELLETS,Iron,99.95% PURE 1/4" DIAMETER X 1/4" LONG,N/A,N/A,€82.00, Fe   1/4" Dia. x 1/4" Length 100 g 99.95% EVMFE35QXQD,100 g
@@ -271,7 +271,7 @@ IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,P.O.R., Fe    1/4" Dia. x 
 IRON PELLETS,Iron,99.95% PURE,1/4" diameter,1/4" long,€280.00, Fe    1/4" Dia. x 1/4" Length 500 g 99.95% EVMFE35QXQT,500 g
 IRON PELLETS,Iron,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Fe    1 LB  +/-0.005" DIA  1/4" Dia. x 1/4" Length 1 lb. 99.99% EVMFE40QXQ,1 lb.
 IRON PELLETS,Iron,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Fe    1/4" Dia. x 1/4" Length 50 g 99.99% EVMFE40QXQB,50 g
-IRON PELLETS,Iron,99.95% PURE,1/8" diameter,1/8" long,€550.00, Fe    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMFE35EXE,1 POUND
+IRON PELLETS,Iron,99.95% PURE,1/8" diameter,1/8" long,€550.00, Fe    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMFE35EXE
 IRON PELLETS,Iron,99.95% PURE,1/8" diameter,1/8" long,€52.00, Fe    1/8" Dia. x 1/8" Length 25 g 99.95% EVMFE35EXEA,25 g
 IRON PELLETS,Iron,99.95% PURE,1/8" diameter,1/8" long,€79.00, Fe    1/8" Dia. x 1/8" Length 50 g 99.95% EVMFE35EXEB,50 g
 IRON PELLETS,Iron,99.95% PURE,1/8" diameter,1/8" long,€136.00, Fe    1/8" Dia. x 1/8" Length 100 g 99.95% EVMFE35EXED,100 g
@@ -286,13 +286,13 @@ LITHIUM PIECES,Lithium,99.9% PURE,approx 1/4" diameter,1/4" long,P.O.R., Li     
 LITHIUM PIECES,Lithium,99.9% PURE,approx 1/8" diameter,1/8" long,P.O.R., Li     HAZARDOUS SHIPPING Approx 1/8" x 1/8" Pieces 25 g 99.9% EVMLI30EXE-A,25 g
 LITHIUM PIECES,Lithium,99.9% PURE,approx 1/8" diameter,1/8" long,P.O.R., Li     HAZARDOUS SHIPPING Approx 1/8" x 1/8" Pieces 100 g 99.9% EVMLI30EXE-D,100 g
 N/A,Lithium Fluoride,99.9% PURE 3-6MM PCS,N/A,N/A,P.O.R.,LITHIUM FLUORIDE  LiF    HAZARDOUS SHIPPING 3mm - 6mm Pieces 100 g 99.9% EVMLIFL3-6M,100 g
-MAGNESIUM PELLETS,Magnesium,99.9% PURE,1/4" diameter,1/2" long,P.O.R., Mg    1 POUND LOT  1/4" Dia. x 1/2" Length 1 lb. 99.95% EVMMG35QXH,1 POUND
-MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4"diameter,1/4"long,P.O.R., Mg    1 POUND  1/4" Dia. x 1/4" Length 1 lb. 99.95% EVMMG35QXQ,1 POUND
+MAGNESIUM PELLETS,Magnesium,99.9% PURE,1/4" diameter,1/2" long,P.O.R., Mg    1 POUND LOT  1/4" Dia. x 1/2" Length 1 lb. 99.95% EVMMG35QXH,1 lb.
+MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4"diameter,1/4"long,P.O.R., Mg    1 POUND  1/4" Dia. x 1/4" Length 1 lb. 99.95% EVMMG35QXQ,1 lb.
 MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4" diameter,1/4" long,P.O.R., Mg     HAZARDOUS SHIPPING 1/4" Dia. x 1/4" Length 25 g 99.95% EVMMG35QXQ-A,25 g
 MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4"diameter,1/4"long,P.O.R., Mg     HAZARDOUS SHIPPING 1/4" Dia. x 1/4" Length 50 g 99.95% EVMMG35QXQ-B,50 g
 MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4"diameter,1/4"long,P.O.R., Mg     HAZARDOUS SHIPPING 1/4" Dia. x 1/4" Length 100 g 99.95% EVMMG35QXQ-D,100 g
 MAGNESIUM PELLETS,Magnesium,99.95% PURE,1/4" diameter,1/4" long,P.O.R., Mg     HAZARDOUS SHIPPING 1/4" Dia. x 1/4" Length 250 g 99.95% EVMMG35QXQ-J,50 g
-MAGNESIUM ALUMINUM OXIDE PIECES,Magnesium Aluminate,99.9% PURE,N/A,N/A,€0.95, MgAl2O4    PER GRAM 3 mm -12 mm Pieces Per Gram 99.9% EVMGALO3-12X,PER GRAM
+MAGNESIUM ALUMINUM OXIDE PIECES,Magnesium Aluminate,99.9% PURE,N/A,N/A,€0.95, MgAl2O4    PER GRAM 3 mm -12 mm Pieces Per Gram 99.9% EVMGALO3-12X,per gram
 MAGNESIUM FLUORIDE PIECES,Magnesium Fluoride,99.99% PURE,N/A,N/A,€218.00, MgF2    1 KILOGRAM 1mm - 2.5mm Pieces 1 kg 99.99% EVMMGF-1-2.5,1 kg
 MAGNESIUM FLUORIDE PIECES,Magnesium Fluoride,99.99% PURE,N/A,N/A,€33.00, MgF2    25 GRAMS 1mm - 2.5mm Pieces 25 g 99.99% EVMMGF-1-2.5A,25 g
 MAGNESIUM FLUORIDE PIECES,Magnesium Fluoride,99.99% PURE,N/A,N/A,€44.00, MgF2    50 GRAMS 1mm - 2.5mm Pieces 50 g 99.99% EVMMGF-1-2.5B,50 g
@@ -308,45 +308,45 @@ MANGANESE PIECES,Manganese,99.95% PURE,N/A,N/A,€299.00, Mn    1 KILOGRAM 3mm -
 MANGANESE PIECES,Manganese,99.95% PURE,N/A,N/A,€57.00, Mn    50 GRAMS 3mm - 12mm Pieces 50 g 99.95% EVMMNM1034B,50 g
 MANGANESE PIECES,Manganese,99.95% PURE,N/A,N/A,€88.00, Mn    200 GRAMS 3mm - 12mm Pieces 200 g 99.95% EVMMNM1034H,200 g
 MANGANESE PIECES,Manganese,99.95% PURE,N/A,N/A,€185.00, Mn    500 GRAMS 3mm - 12mm Pieces 500 g 99.95% EVMMNM1034T,500 g
-MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/2" long,P.O.R., Mo    1 POUND 1/4" Dia. x 1/2" Length 99.95% — EVMMO35QXH,1 POUND
-MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/4" long,€400.00, Mo    1 POUND 1/4" Dia. x 1/4" Length 99.95% — EVMMO35QXQ,1 POUND
+MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/2" long,P.O.R., Mo    1 POUND 1/4" Dia. x 1/2" Length 99.95% — EVMMO35QXH
+MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/4" long,€400.00, Mo    1 POUND 1/4" Dia. x 1/4" Length 99.95% — EVMMO35QXQ
 MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/4" long,€48.00, Mo    1/4" Dia. x 1/4" Length 25 g 99.95% — EVMMO35QXQA,25 g
 MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/4" long,€86.00, Mo    1/4" Dia. x 1/4" Length 50 g 99.95% — EVMMO35QXQB,50 g
 MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/4" diameter,1/4" long,€100.00, Mo    1/4" Dia. x 1/4" Length 100 g 99.95% — EVMMO35QXQD,100 g
-MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/4" long,P.O.R., Mo    1 POUND 1/8" Dia. x 1/4" Length 99.95% — EVMMO35EXQ,1 POUND
-MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/8" long,€494.00, Mo    1 POUND 1/8" Dia. x 1/8" Length 99.95% — EVMMO35EXE,1 POUND
+MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/4" long,P.O.R., Mo    1 POUND 1/8" Dia. x 1/4" Length 99.95% — EVMMO35EXQ
+MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/8" long,€494.00, Mo    1 POUND 1/8" Dia. x 1/8" Length 99.95% — EVMMO35EXE
 MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/8" long,€141.00, Mo    1/8" Dia. x 1/8" Length 100 g 99.95% — EVMMO35EXED,100 g
 MOLYBDENUM PELLETS,Molybdenum,99.95% PURE,1/8" diameter,1/8" long,€336.00, Mo    1/8" Dia. x 1/8" Length 250 g 99.95% — EVMMO35EXEJ,50 g
-MOLYBDENUM PIECES,Molybdenum,99.95% PURE,approx 1/4" diameter,1/4" long,€0.31, Mo    Approx. 1/4" x 1/4" Pieces Per Gram 99.95% EVMMO35SPL10,PER GRAM
-MOLYBDENUM WIRE,Molybdenum,99.95% PURE,N/A,N/A,P.O.R., Mo    +/-0.075MM DIA  SOLD BY THE FOOT 1mm Dia. 1 ft. 99.95% EVMMO35040,SOLD BY THE FOOT
+MOLYBDENUM PIECES,Molybdenum,99.95% PURE,approx 1/4" diameter,1/4" long,€0.31, Mo    Approx. 1/4" x 1/4" Pieces Per Gram 99.95% EVMMO35SPL10,per gram
+MOLYBDENUM WIRE,Molybdenum,99.95% PURE,N/A,N/A,P.O.R., Mo    +/-0.075MM DIA  SOLD BY THE FOOT 1mm Dia. 1 ft. 99.95% EVMMO35040
 MOLYBDENUM OXIDE PIECES,Molybdenum Oxide,99.95% PURE,N/A,N/A,€296.00, MoO3    25 GRAMS 3MM - 6MM Pieces 25g 99.95% EVMMOO3-6MMA,25 g
 MOLYBDENUM OXIDE PIECES,Molybdenum Oxide,99.95% PURE,N/A,N/A,€552.00, MoO3    50 GRAMS 3MM - 6MM Pieces 50g 99.95% EVMMOO3-6MMB,50 g
 MOLYBDENUM OXIDE PIECES,Molybdenum Oxide,99.95% PURE,N/A,N/A,€1, MoO3    100 GRAMS 3MM - 6MM Pieces 100g 99.95% EVMMOO3-6MMD 080.00,100 g
 MOLYBDENUM OXIDE PIECES,Molybdenum Oxide,99.95% PURE,N/A,N/A,€2, MoO3    200 GRAMS 3MM - 6MM Pieces 200g 99.95% EVMMOO3-6MMH 136.00,200g
 NEODYMIUM PIECES,N/A,99.9% PURE TREM,N/A,N/A,P.O.R.,Neodymium  Nd    100 GRAMS  PACKAGED IN MINERAL OIL 1mm Dia. x 6mm Length 100 g 99.9% EVMND1-6MMD,100 g
-NICKEL PELLETS,Nickel,99.98% PURE,1/4" diameter,1/2" long,€253.00, Ni    1 POUND 1/4" Dia. x 1/2" Length 99.98% EVMNI38QXH,1 POUND
-NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/2" long,€495.00, Ni    1 POUND 1/4" Dia. x 1/2" Length 99.995% EVMNI45QXH,1 POUND
+NICKEL PELLETS,Nickel,99.98% PURE,1/4" diameter,1/2" long,€253.00, Ni    1 POUND 1/4" Dia. x 1/2" Length 99.98% EVMNI38QXH
+NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/2" long,€495.00, Ni    1 POUND 1/4" Dia. x 1/2" Length 99.995% EVMNI45QXH
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/2" long,€107.00, Ni    1/4" Dia. x 1/2" Length 100 g 99.995% EVMNI45QXHD,100 g
-NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€273.00, Ni    1 POUND  +/-0.005" DIA  1/4" Dia. x 1/4" Length 1 lb. 99.995% EVMNI45QXQ,1 POUND
+NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€273.00, Ni    1 POUND  +/-0.005" DIA  1/4" Dia. x 1/4" Length 1 lb. 99.995% EVMNI45QXQ,1 lb.
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€48.00, Ni    1/4" Dia. x 1/4" Length 25 g 99.995% EVMNI45QXQA,25 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€66.00, Ni    1/4" Dia. x 1/4" Length 50 g 99.995% EVMNI45QXQB,50 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€94.00, Ni    1/4" Dia. x 1/4" Length 100 g 99.995% EVMNI45QXQD,100 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€147.00, Ni    1/4" Dia. x 1/4" Length 225 g 99.995% EVMNI45QXQI,25 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/4" diameter,1/4" long,€164.00, Ni    1/4" Dia. x 1/4" Length 250 g 99.995% EVMNI45QXQJ,50 g
-NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/4" long,€445.00, Ni    1 POUND 1/8" Dia. x 1/4" Length 99.995% EVMNI45EXQ,1 POUND
-NICKEL PELLETS,Nickel,99.98% PURE,1/8" diameter,1/8" long,€642.00, Ni    1 POUND 1/8" Dia. x 1/8" Length 99.98% EVMNI38EXE,1 POUND
+NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/4" long,€445.00, Ni    1 POUND 1/8" Dia. x 1/4" Length 99.995% EVMNI45EXQ
+NICKEL PELLETS,Nickel,99.98% PURE,1/8" diameter,1/8" long,€642.00, Ni    1 POUND 1/8" Dia. x 1/8" Length 99.98% EVMNI38EXE
 NICKEL PELLETS,Nickel,99.98% PURE,1/8" diameter,1/8" long,€68.00, Ni    1/8" Dia. x 1/8" Length 25 g 99.98% EVMNI38EXEA,25 g
 NICKEL PELLETS,Nickel,99.98% PURE,1/8" diameter,1/8" long,€102.00, Ni    1/8" Dia. x 1/8" Length 50 g 99.98% EVMNI38EXEB,50 g
 NICKEL PELLETS,Nickel,99.98% PURE,1/8" diameter,1/8" long,€173.00, Ni    1/8" Dia. x 1/8" Length 100 g 99.98% EVMNI38EXED,100 g
-NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€676.00, Ni    1 POUND 1/8" Dia. x 1/8" Length 99.995% EVMNI45EXE,1 POUND
+NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€676.00, Ni    1 POUND 1/8" Dia. x 1/8" Length 99.995% EVMNI45EXE
 NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€70.00, Ni    1/8" Dia. x 1/8" Length 25 g 99.995% EVMNI45EXEA,25 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€106.00, Ni    1/8" Dia. x 1/8" Length 50 g 99.995% EVMNI45EXEB,50 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€180.00, Ni    1/8" Dia. x 1/8" Length 100 g 99.995% EVMNI45EXED,100 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€404.00, Ni    1/8" Dia. x 1/8" Length 250 g 99.995% EVMNI45EXEJ,50 g
 NICKEL PELLETS,Nickel,99.995% PURE,1/8" diameter,1/8" long,€720.00, Ni    1/8" Dia. x 1/8" Length 500 g 99.995% EVMNI45EXET,500 g
-NICKEL WIRE,Nickel,99.6% PURE,N/A,N/A,P.O.R., Ni    PER FOOT  MINIMUM ORDER QUANTITY OF 25 FEET 0.020" Dia. (0.50mm) 1 ft. 99.6% EVMNI26.020,PER FOOT
-NICKEL WIRE,Nickel,99.98% PURE,N/A,N/A,€3.00, Ni    PER FOOT  MINIMUM ORDER QTY 5 FEET 0.020" Dia. (0.50mm) 1 ft. 99.98% EVMNI38020,PER FOOT
-NICKEL WIRE,Nickel,99.98% PURE 0.030"/ 0.75MM DIAMETER,N/A,N/A,P.O.R., Ni   1 POUND 0.03" Dia. (0.75mm) 99.98% EVMNI38030LB,1 POUND
+NICKEL WIRE,Nickel,99.6% PURE,N/A,N/A,P.O.R., Ni    PER FOOT  MINIMUM ORDER QUANTITY OF 25 FEET 0.020" Dia. (0.50mm) 1 ft. 99.6% EVMNI26.020,per foot
+NICKEL WIRE,Nickel,99.98% PURE,N/A,N/A,€3.00, Ni    PER FOOT  MINIMUM ORDER QTY 5 FEET 0.020" Dia. (0.50mm) 1 ft. 99.98% EVMNI38020,per foot
+NICKEL WIRE,Nickel,99.98% PURE 0.030"/ 0.75MM DIAMETER,N/A,N/A,P.O.R., Ni   1 POUND 0.03" Dia. (0.75mm) 99.98% EVMNI38030LB
 N/A,Nickel/Chromium,N/A,N/A,N/A,P.O.R.,NICKEL/CHROME EVAPORANT  Ni/Cr  80/20 WT%  ~500mg CANE   SOLD PER BAG 490mg–510mg 2 500 per Bag Gilphy 80 EVMNICR500CANE
 NICKEL/IRON PELLETS,Nickel/Iron,99.95% PURE,1/8" diameter,1/8" long pellets,€180.00, Ni/Fe 81/19 WT%    Nickel Iron (81/19 wt%) 1/8" Dia. x 1/8" Length 100 g 99.95% EVMNIFEEXE-D,100 g
 NICKEL/IRON PELLETS,Nickel/Iron,99.95% PURE,1/4" diameter,1/4" long,€164.00, Ni/Fe 81/19 WT%    Nickel Iron (81/19 wt%) 1/4" Dia. x 1/4" Length 100 g 99.95% EVMNIFEQXQ-D,100 g
@@ -359,29 +359,29 @@ NICKEL/CHROME PELLETS,Nickel/Chromium,99.95% PURE,1/8" diameter,1/8" long,€106
 NICKEL/CHROME PELLETS,Nickel/Chromium,99.95% PURE,1/8" diameter,1/8" long,P.O.R., Ni/Cr 80/20 WT%    1/8" Dia. x 1/8" Length 50 g 99.95% EVMNICREXE-B,50 g
 NICKEL/CHROME PELLETS,Nickel/Chromium,99.95% PURE,1/8" diameter,1/8" long,€242.00, Ni/Cr 80/20 WT %    1/8" Dia. x 1/8" Length 100 g 99.95% EVMNICREXE-D,100 g
 NICKEL/CHROME PELLETS,Nickel/Chromium,99.95% PURE,1/8" diameter,1/8" long,P.O.R., Ni/Cr 80/20 WT %    1/8" Dia. x 1/8" Length 300 g 99.95% EVMNICREXE-L
-NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/4" diameter,1/2" long,€558.00, Nb    1 POUND 1/4" Dia. x 1/2" Length 99.95% pure Ex Ta EVMNB35QXH,1 POUND
+NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/4" diameter,1/2" long,€558.00, Nb    1 POUND 1/4" Dia. x 1/2" Length 99.95% pure Ex Ta EVMNB35QXH
 NIOBIUM PELLETS,Niobium,99.95% PURE,1/4" diameter,1/2" long,P.O.R., Nb   EX Ta   1/4" Dia. x 1/2" Length 25g 99.95% pure Ex Ta EVMNB35QXHA
-NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/4" diameter,1/4" long,€444.00, Nb    1 POUND 1/4" Dia. x 1/4" Length 99.95% pure Ex Ta EVMNB35QXQ,1 POUND
-NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/4" long,P.O.R., Nb    1 POUND 1/8" Dia. x 1/4" Length 99.95% pure Ex Ta EVMNB35EXQ,1 POUND
-NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/8" long,€690.00, Nb    1 POUND 1/8" Dia. x 1/8" Length 99.95% pure Ex Ta EVMNB35EXE,1 POUND
+NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/4" diameter,1/4" long,€444.00, Nb    1 POUND 1/4" Dia. x 1/4" Length 99.95% pure Ex Ta EVMNB35QXQ
+NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/4" long,P.O.R., Nb    1 POUND 1/8" Dia. x 1/4" Length 99.95% pure Ex Ta EVMNB35EXQ
+NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/8" long,€690.00, Nb    1 POUND 1/8" Dia. x 1/8" Length 99.95% pure Ex Ta EVMNB35EXE
 NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/8" long,€103.00, Nb    1/8" Dia. x 1/8" Length 50 g 99.95% pure Ex Ta EVMNB35EXEB,50 g
 NIOBIUM PELLETS,Niobium,99.95% PURE EX Ta,1/8" diameter,1/8" long,€171.00, Nb    1/8" Dia. x 1/8" Length 100 g 99.95% pure Ex Ta EVMNB35EXED,100 g
-NIOBIUM WIRE,Niobium,99.95% PURE,N/A,N/A,P.O.R., Nb    PER FOOT  10 FOOT MININUM ORDER 0.020" Dia. Per ft.  10 min. 99.95% pure Ex Ta EVMNB.020,PER FOOT
+NIOBIUM WIRE,Niobium,99.95% PURE,N/A,N/A,P.O.R., Nb    PER FOOT  10 FOOT MININUM ORDER 0.020" Dia. Per ft.  10 min. 99.95% pure Ex Ta EVMNB.020,per foot
 NIOBIUM OXIDE PIECES,Niobium Oxide,99.95% PURE,N/A,N/A,P.O.R., Nb2O5    100 GRAMS  WHITE 3mm - 12mm 100g 99.95% White EVMNBO3-12D,100 g
 NIOBIUM OXIDE PIECES,Niobium Oxide,99.95% PURE,N/A,N/A,P.O.R., Nb2O5    1 KILOGRAM  WHITE 3mm - 12mm 1 kg 99.95% White EVMNBO3-12KG,1 kg
 NIOBIUM OXIDE PIECES,Niobium Oxide,99.95% PURE,N/A,N/A,P.O.R., Nb2O5    500 GRAMS  WHITE 3mm - 12mm 500 g 99.95% White EVMNBO3-12T,500 g
 PALLADIUM PELLETS,Palladium,99.95% PURE,1/4" diameter,1/4" long,€171.50, Pd    SOLD PER PELLET   AVE 2.42 GRAMS EACH 1/4" Dia. x 1/4" Length Per Pellet (Approx. 2.3 g Each) 99.95% EVMPD35QXQ
-PALLADIUM SHOT,Palladium,99.95% PURE,1/8" diameter,1/8" long,P.O.R., Pd    1/8" Dia. x 1/8" Length Per Gram 99.95% EVMPD35SHOT,PER GRAM
-PALLADIUM WIRE,Palladium,99.95% PURE,N/A,N/A,P.O.R., Pd    PER FOOT 0.020" Dia. Per ft. 99.95% EVMPD35.020,PER FOOT
-PALLADIUM WIRE,Palladium,99.95% PURE,N/A,N/A,P.O.R., Pd    SOLD PER FOOT. 0.040" Dia. Per ft. 99.95% EVMPD35.040,PER FOOT
-PERMALLOY/HYMU 80 PELLETS 1/4" DIAMETER X 1/4" LONG,N/A,COMMERCIAL PURITY,N/A,N/A,€510.00,Permalloy  1 POUND   TYP 99% 1/4" Dia. x 1/4" Length EVMPERM35QXQ,1 POUND
+PALLADIUM SHOT,Palladium,99.95% PURE,1/8" diameter,1/8" long,P.O.R., Pd    1/8" Dia. x 1/8" Length Per Gram 99.95% EVMPD35SHOT,per gram
+PALLADIUM WIRE,Palladium,99.95% PURE,N/A,N/A,P.O.R., Pd    PER FOOT 0.020" Dia. Per ft. 99.95% EVMPD35.020,per foot
+PALLADIUM WIRE,Palladium,99.95% PURE,N/A,N/A,P.O.R., Pd    SOLD PER FOOT. 0.040" Dia. Per ft. 99.95% EVMPD35.040,per foot
+PERMALLOY/HYMU 80 PELLETS 1/4" DIAMETER X 1/4" LONG,N/A,COMMERCIAL PURITY,N/A,N/A,€510.00,Permalloy  1 POUND   TYP 99% 1/4" Dia. x 1/4" Length EVMPERM35QXQ
 PERMALLOY/HYMU 80 PELLETS,N/A,COMMERCIAL PURITY,1/4" diameter,1/4" long,€82.00,Permalloy     TYP 99% 1/4" Dia. x 1/4" Length 50 g EVMPERMQXQ-B,50 g
 PERMALLOY/HYMU 80 PELLETS,N/A,COMMERCIAL PURITY,1/4" diameter,1/4" long,€127.00,Permalloy     TYP 99% 1/4" Dia. x 1/4" Length 100 g EVMPERMQXQ-D,100 g
 PERMALLOY/HYMU 80 PELLETS,N/A,COMMERICAL PURITY TYP 99%,1/8" diameter,1/8" long,€175.00,Permalloy    1/8" Dia. x 1/8" Length 50 g EVMPERMEXE-B,50 g
 PERMALLOY/HYMU 80 PELLETS 1/8" DIAMETER X 1/8" LONG,N/A,COMMERCIAL PURITY TYP 99%,N/A,N/A,€234.00,Permalloy   1/8" Dia. x 1/8" Length 100 g EVMPERMEXE-D,100 g
 PLATINUM PELLETS,Platinum,99.99% PURE,1/4" diameter,1/4" long,P.O.R., Pt     SOLD PER PELLET  AVERAGE WEIGHT PER PELLET 4.1 GRAMS EACH 1/4" Dia. x 1/4" Length Per Pellet (Approx. 4 g Each) 99.99% EVMPT40QXQ
-PLATINUM PELLETS,Platinum,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Pt    1/8" Dia. x 1/8" Length Per Gram 99.99% EVMPT40SHOT,PER GRAM
-PLATINUM WIRE,Platinum,99.99% PURE,N/A,N/A,P.O.R., Pt    PER FOOT  0.020" Dia. Per ft. 99.99% EVMPT40020,PER FOOT
+PLATINUM PELLETS,Platinum,99.99% PURE,1/8" diameter,1/8" long,P.O.R., Pt    1/8" Dia. x 1/8" Length Per Gram 99.99% EVMPT40SHOT,per gram
+PLATINUM WIRE,Platinum,99.99% PURE,N/A,N/A,P.O.R., Pt    PER FOOT  0.020" Dia. Per ft. 99.99% EVMPT40020,per foot
 RHENIUM PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Rhenium  Re    10 GRAMS 3mm - 6mm Pieces 10 g 99.9% EVMRE303-6MM,10 g
 RHENIUM PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Rhenium  Re    25 GRAMS 3mm - 6mm Pieces 25 g 99.9% EVMRE303-6MMA,25 g
 RHENIUM PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Rhenium  Re    200 GRAMS 3mm - 6mm Pieces 200 g 99.9% EVMRE303-6MMH,200 g
@@ -409,11 +409,11 @@ SILICON METAL PIECES,N/A,99.999% PURE,N/A,N/A,€44.00,Silicon  Si   P-TYPE   25
 SILICON METAL PIECES,N/A,99.999% PURE,N/A,N/A,€53.00,Silicon  Si  P-TYPE    50 GRAMS  <0.2 OHM-CM 3mm - 6mm Pieces 50 g 99.999% — EVMSI1047B,50 g
 SILICON METAL PIECES,N/A,99.999% PURE,N/A,N/A,€95.00,Silicon  Si  P-TYPE    250 GRAMS  <0.2 OHM-CM 3mm - 6mm Pieces 250 g 99.999% — EVMSI1047J,50 g
 SILICON METAL PIECES,N/A,99.999% PURE,N/A,N/A,P.O.R.,Silicon  Si  P-TYPE    500 GRAMS  <0.2 OHM-CM 3mm - 6mm Pieces 500 g 99.999% — EVMSI1047T,500 g
-SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€110.00,Silicon Dioxide  SiO2    1 POUND 1mm - 5mm Pieces 1 lb. 99.99% pure Clear EVMSIO21-5,1 POUND
+SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€110.00,Silicon Dioxide  SiO2    1 POUND 1mm - 5mm Pieces 1 lb. 99.99% pure Clear EVMSIO21-5,1 lb.
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€39.00,Silicon Dioxide  SiO2    100 GRAMS. 1mm - 5mm Pieces 100 g 99.99% pure Clear EVMSIO21-5D,100 g
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€190.00,Silicon Dioxide  SiO2    1 KILOGRAM 1mm - 5mm Pieces 1 kg 99.99% pure Clear EVMSIO21-5KG,1 kg
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€33.00,Silicon Dioxide  SiO2    25 GRAMS 1mm - 5mm Pieces 25 g 99.99% Pure Clear EVMSIO21-5A,25 g
-SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€98.00,Silicon Dioxide  SiO2    1 POUND 3mm - 12mm Pieces 1 lb. 99.99% Clear EVMSIO240,1 POUND
+SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€98.00,Silicon Dioxide  SiO2    1 POUND 3mm - 12mm Pieces 1 lb. 99.99% Clear EVMSIO240,1 lb.
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€38.00,Silicon Dioxide  SiO2    50 GRAMS 3mm - 12mm Pieces 50 g 99.99% Clear EVMSIO240B,50 g
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,€49.00,Silicon Dioxide  SiO2    100 GRAMS 3mm - 12mm Pieces 100 g 99.99% Clear EVMSIO240D,100 g
 SILICON DIOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,P.O.R.,Silicon Dioxide  SiO2    1 KILOGRAM 3mm - 12mm Pieces 1 kg 99.99% Clear EVMSIO240KG,1 kg
@@ -425,28 +425,28 @@ SILICON MONOXIDE PIECES,N/A,99.99% PURE,N/A,N/A,P.O.R.,Silicon Monoxide  SiO    
 SILICON MONOXIDE PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Silicon Monoxide  SiO    100 GRAMS 3mm - 6mm Pieces 100 g 99.9% EVMSIO303-6D,100 g
 SILICON MONOIXDE PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Silicon Monoxide  SiO    1 KILOGRAM 3mm - 6mm Pieces 1 kg 99.9% EVMSIO303-6K,1 kg
 SILICON MONOXIDE PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Silicon Monoxide  SiO    500 GRAMS 3mm - 6mm Pieces 500 g 99.9% EVMSIO303-6T,500 g
-SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€771.00,   1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMAG40QXQ,1 POUND
+SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€771.00,   1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMAG40QXQ
 SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€76.00, Ag    1/4" Dia. x 1/4" Length 25 g 99.99% EVMAG40QXQ-A,25 g
 SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€122.00, Ag    1/4" Dia. x 1/4" Length 50 g 99.99% EVMAG40QXQ-B,50 g
 SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€190.00, Ag    1/4" Dia. x 1/4" Length 100 g 99.99% EVMAG40QXQ-D,100 g
 SILVER PELLETS,Silver,99.99% PURE,1/4" diameter,1/4" long,€437.00, Ag    1/4" Dia. x 1/4" Length 250 g 99.99% EVMAG40QXQ-J,50 g
-SILVER PELLETS,Silver,99.998-99.999% PURE,1/4" diameter,1/4" long,P.O.R., Ag    1 POUND 1/4" Dia. x 1/4" Length 99.998-99.999% EVMAG50QXQ,1 POUND
-SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€717.00, Ag    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMAG40EXE,1 POUND
+SILVER PELLETS,Silver,99.998-99.999% PURE,1/4" diameter,1/4" long,P.O.R., Ag    1 POUND 1/4" Dia. x 1/4" Length 99.998-99.999% EVMAG50QXQ
+SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€717.00, Ag    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMAG40EXE
 SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€66.00, Ag    1/8" Dia. x 1/8" Length 25 g 99.99% EVMAG40EXE-A,25 g
 SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€103.00, Ag    1/8" Dia. x 1/8" Length 50 g 99.99% EVMAG40EXE-B,50 g
 SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€182.00, Ag    1/8" Dia. x 1/8" Length 100 g 99.99% EVMAG40EXE-D,100 g
 SILVER PELLETS,Silver,99.99% PURE,1/8" diameter,1/8" long,€408.00, Ag    1/8" Dia. x 1/8" Length 250 g 99.99% EVMAG40EXE-J,50 g
-SILVER SHOT,Silver,99.99% PURE,N/A,N/A,€4.00, Ag    SOLD BY THE GRAM 4mm Pieces or Smaller Per Gram 99.99% EVMAG40SHOT1,PER GRAM
+SILVER SHOT,Silver,99.99% PURE,N/A,N/A,€4.00, Ag    SOLD BY THE GRAM 4mm Pieces or Smaller Per Gram 99.99% EVMAG40SHOT1,per gram
 SILVER WIRE,Silver,99.998-99.999% PURE,0.062" diameter,1 pound on spool,P.O.R., Ag   0.062" Dia. Wire 99.99% EVMAG50.062
 SILVER WIRE,Silver,99.99% PURE,1.0mm diameter,10.0 meters long,€525.00, Ag   1.0mm Dia. 10m 99.99%
-SILVER WIRE,Silver,99.99% PURE,N/A,N/A,€29.00, Ag    SOLD PER FOOT 1.5mm Dia. 1 ft. 99.99%,PER FOOT
+SILVER WIRE,Silver,99.99% PURE,N/A,N/A,€29.00, Ag    SOLD PER FOOT 1.5mm Dia. 1 ft. 99.99%,per foot
 STRONTIUM PIECES,N/A,99% PURE,N/A,N/A,P.O.R.,Strontium  Sr    50 GRAMS  PACKAGED IN OIL  HAZARDOUS SHIPPING 3mm - 6mm Pieces 50 g 99% EVMSR3-6MMB,50 g
 SULFUR PIECES,N/A,99.999% PURE,N/A,N/A,P.O.R.,Sulfur  S    100 GRAMS  HAZARDOUS SHIPPING 6mm 100 g 99.999% EVMS1159,100 g
-TANTALUM PELLETS,Tantalum,99.95% PURE,1/4" diameter,1/4" long,€1, Ta    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMTA35QXQ 081.00,1 POUND
+TANTALUM PELLETS,Tantalum,99.95% PURE,1/4" diameter,1/4" long,€1, Ta    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMTA35QXQ 081.00
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/4" diameter,1/4" long,€180.00, Ta    1/4" Dia. x 1/4" Length 50 g 99.95% EVMTA35QXQ-B,50 g
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/4" diameter,1/4" long,€299.00, Ta    1/4" Dia. x 1/4" Length 100 g 99.95% EVMTA35QXQ-D,100 g
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/4" diameter,1/4" long,€726.00, Ta    1/4" Dia. x 1/4" Length 250 g 99.95% EVMTA35QXQ-J,50 g
-TANTALUM PELLETS,Tantalum,99.95% PURE,1/8" diameter,1/8" long,€1, Ta    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMTA35EXE 304.00,1 POUND
+TANTALUM PELLETS,Tantalum,99.95% PURE,1/8" diameter,1/8" long,€1, Ta    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMTA35EXE 304.00
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/8" diameter,1/8" long,€170.00, Ta    1/8" Dia. x 1/8" Length 50 g 99.95% EVMTA35EXEB,50 g
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/8" diameter,1/8" long,€315.00, Ta    1/8" Dia. x 1/8" Length 100 g 99.95% EVMTA35EXED,100 g
 TANTALUM PELLETS,Tantalum,99.95% PURE,1/8" diameter,1/8" long,€699.00, Ta    1/8" Dia. x 1/8" Length 250 g 99.95% EVMTA35EXEJ,50 g
@@ -458,37 +458,37 @@ TANTALUM PENTOXIDE TABLETS,Tantalum Pentoxide,99.95% PURE,8-9mm diameter,4-5mm t
 TANTALUM PENTOXIDE TABLETS,Tantalum Pentoxide,99.95% PURE,8-9mm diameter,4-5mm thick,€331.00, Ta2O5     WHITE TO BEIGE 8-9mm Dia. x 4-5mm Thick Tablets 100 g 99.95% White to Beige EVMTAO4.5MMD,100 g
 TANTALUM PENTOXIDE TABLETS,Tantalum Pentoxide,99.95% PURE,8-9mm diameter,4-5mm thick,P.O.R., Ta2O5     WHITE TO BEIGE 8-9mm Dia. x 4-5mm Thick Tablets 500 g 99.95% White to Beige EVMTAO4.5MMT,500 g
 TANTALUM PENTOXIDE TABLETS,Tantalum Pentoxide,99.99% PURE,8.5mm diameter,3mm thick,P.O.R., Ta2O5     GREY TO BLACK 9mm Dia. x 3mm Thick Tablets 1 kg 99.99% Gray to Black EVMTAO-9MM,1 kg
-TIN PELLETS,Tin,99.99% PURE,1/4" diameter,1/4" long,€284.00, Sn    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMSN40QXQ,1 POUND
-TIN PELLETS,Tin,99.994-99.999% PURE,1/4" diameter,1/4" long,€494.00, Sn    1 POUND 1/4" Dia. x 1/4" Length 99.994%-99.999% EVMSN50QXQ,1 POUND
+TIN PELLETS,Tin,99.99% PURE,1/4" diameter,1/4" long,€284.00, Sn    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMSN40QXQ
+TIN PELLETS,Tin,99.994-99.999% PURE,1/4" diameter,1/4" long,€494.00, Sn    1 POUND 1/4" Dia. x 1/4" Length 99.994%-99.999% EVMSN50QXQ
 TIN PELLETS,Tin,99.994-99.999% PURE,1/4" diameter,1/4" long,€72.00, Sn    1/4" Dia. x 1/4" Length 50 g 99.994%-99.999% EVMSN50QXQ-B,50 g
 TIN PELLETS,Tin,99.994-99.999% PURE,1/4" diameter,1/4" long,€109.00, Sn    1/4" Dia. x 1/4" Length 100 g 99.994%-99.999% EVMSN50QXQ-D,100 g
 TIN PELLETS,Tin,99.994-99.999% PURE,1/4" diameter,1/4" long,€255.00, Sn    1/4" Dia. x 1/4" Length 225 g 99.994%-99.999% EVMSN50QXQ-I,25 g
 TIN PELLETS,Tin,99.99%+ PURE,1/8" diameter,1/4" long,P.O.R., Sn    1/8" Dia. x 1/4" Length 500 g 99.99% EVMSN40EXQ-T,500 g
-TIN PELLETS,Tin,99.99% PURE,1/8" diameter,1/8" long,€731.00, Sn    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMSN40EXE,1 POUND
+TIN PELLETS,Tin,99.99% PURE,1/8" diameter,1/8" long,€731.00, Sn    1 POUND 1/8" Dia. x 1/8" Length 99.99% EVMSN40EXE
 TIN PELLETS,Tin,99.99% PURE,1/8" diameter,1/8" long,€103.00, Sn    1/8" Dia. x 1/8" Length 50 g 99.99% EVMSN40EXEB,50 g
 TIN PELLETS,Tin,99.99% PURE,1/8" diameter,1/8" long,€181.00, Sn    1/8" Dia. x 1/8" Length 100 g 99.99% EVMSN40EXED,100 g
 TIN PELLETS,Tin,99.99% PURE,1/8" diameter,1/8" long,€800.00, Sn    1/8" Dia. x 1/8" Length 500 g 99.99% EVMSN40EXET,500 g
 TIN PELLETS,Tin,99.994-99.999% PURE,1/8" diameter,1/8" long,P.O.R., Sn    1/8" Dia. x 1/8" Length 100 g 99.994%-99.999% EVMSN50EXE-D,100 g
-TIN PELLETS,Tin,99.994-99.999% PURE,1/8" diameter,1/8" long,€699.00, Sn    1 POUND 1/8" Dia. x 1/8" Length 99.994%-99.999% EVMSN50EXE,1 POUND
+TIN PELLETS,Tin,99.994-99.999% PURE,1/8" diameter,1/8" long,€699.00, Sn    1 POUND 1/8" Dia. x 1/8" Length 99.994%-99.999% EVMSN50EXE
 TIN OXIDE PIECES,Tin Oxide,99.9% PURE,N/A,N/A,€65.00, SnO2    50 GRAMS  SINTERED MATERIAL 3mm - 12mm Pieces 50 g 99.9% Black EVMSNO3-12B,50 g
 TIN OXIDE PIECES,Tin Oxide,99.9% PURE,N/A,N/A,€175.00, SnO2    200 GRAMS  SINTERED  WHITE-GREY 3mm - 12mm Pieces 200 g 99.9% Black EVMSNO3-12H,200 g
-TITANIUM PELLETS,Titanium,99.9% PURE,1/2" diameter,1/2" long,€0.97, Ti     EACH PELLET ~7 GRAMS  MUST ORDER IN MULTIPLES OF 7 1/2" Dia. x 1/2" Length Per Gram 99.90% EVMTI30HXHX,PER GRAM
-TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/2" long,€605.00, Ti    1 POUND 1/4" Dia. x 1/2" Length 99.995% — EVMTI45QXH,1 POUND
-TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€625.00, Ti    1 POUND 1/4" Dia. x 1/4" Length 99.995% — EVMTI45QXQ,1 POUND
+TITANIUM PELLETS,Titanium,99.9% PURE,1/2" diameter,1/2" long,€0.97, Ti     EACH PELLET ~7 GRAMS  MUST ORDER IN MULTIPLES OF 7 1/2" Dia. x 1/2" Length Per Gram 99.90% EVMTI30HXHX,per gram
+TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/2" long,€605.00, Ti    1 POUND 1/4" Dia. x 1/2" Length 99.995% — EVMTI45QXH
+TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€625.00, Ti    1 POUND 1/4" Dia. x 1/4" Length 99.995% — EVMTI45QXQ
 TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€56.00, Ti    1/4" Dia. x 1/4" Length 25 g 99.995% — EVMTI45QXQA,25 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€96.00, Ti    1/4" Dia. x 1/4" Length 50 g 99.995% — EVMTI45QXQB,50 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€175.00, TI    1/4" Dia. x 1/4" Length 100 g 99.995% — EVMTI45QXQD,100 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/4" diameter,1/4" long,€326.00, Ti    1/4" Dia. x 1/4" Length 225 g 99.995% — EVMTI45QXQI,25 g
-TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/4" long,P.O.R., Ti    1 POUND 1/8" Dia. x 1/4" Length 99.995% — EVMTI45EXQ,1 POUND
-TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€958.00, Ti    1 POUND 1/8" Dia. x 1/8" Length 99.995% — EVMTI45EXE,1 POUND
+TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/4" long,P.O.R., Ti    1 POUND 1/8" Dia. x 1/4" Length 99.995% — EVMTI45EXQ
+TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€958.00, Ti    1 POUND 1/8" Dia. x 1/8" Length 99.995% — EVMTI45EXE
 TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€77.00, Ti    1/8" Dia. x 1/8" Length 25 g 99.995% — EVMTI45EXE-A,25 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€137.00, Ti    1/8" Dia. x 1/8" Length 50 g 99.995% — EVMTI45EXE-B,50 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€250.00, Ti    1/8" Dia. x 1/8" Length 100 g 99.995% — EVMTI45EXE-D,100 g
 TITANIUM PELLETS,Titanium,99.995% PURE,1/8" diameter,1/8" long,€591.00, Ti    1/8" Dia. x 1/8" Length 250 g 99.995% — EVMTI45EXE-J,50 g
-TITANIUM WIRE,Titanium,99.98% PURE,N/A,N/A,€8.00, Ti    SOLD BY THE FOOT  5 FEET MIN. ORDER 0.020" Dia. Per ft. 99.98% EVMTI38020,SOLD BY THE FOOT
+TITANIUM WIRE,Titanium,99.98% PURE,N/A,N/A,€8.00, Ti    SOLD BY THE FOOT  5 FEET MIN. ORDER 0.020" Dia. Per ft. 99.98% EVMTI38020
 TITANIUM WIRE,Titanium,99.995% PURE,0.020"diameter,75 foot spool,€418.00, Ti   0.020" Dia. 75 ft. 99.995% EVMTI4502075
 TITANIUM WIRE,Titanium,99.98% PURE,1mm diameter,1 meter long,€115.00, Ti   1.0mm Dia. 1m 99.98% EVMTI381MM1M
-TITANIUM DIOXIDE PIECES,Titanium Dioxide,99.9% PURE,N/A,N/A,€0.09, TiO2    BULK/GRAM  WHITE 1mm - 6 mm Pieces Per Gram 99.90% White EVMTIO2316X,PER GRAM
+TITANIUM DIOXIDE PIECES,Titanium Dioxide,99.9% PURE,N/A,N/A,€0.09, TiO2    BULK/GRAM  WHITE 1mm - 6 mm Pieces Per Gram 99.90% White EVMTIO2316X,per gram
 TITANIUM DIOXIDE PIECES,Titanium Dioxide,99.9% PURE,N/A,N/A,P.O.R., TiO2    1 LB  WHITE-GRAY  SINTERED  RUTILE 3mm - 6mm Pieces 1 lb. 99.9% White to Gray — EVMTIO230,1 lb.
 TITANIUM DIOXIDE PIECES,Titanium Dioxide,99.9% PURE,N/A,N/A,€91.00, TiO2    50 GRAMS  WHITE-GRAY  SINTERED  RUTILE 3mm - 6mm Pieces 50 g 99.9% White to Gray — EVMTIO230B,50 g
 TITANIUM DIOXIDE PIECES,Titanium Dioxide,99.9% PURE,N/A,N/A,€157.00, TiO2    100 GRAMS  WHITE-GRAY  SINTERED  RUTILE 3mm - 6mm Pieces 100 g 99.9% White to Gray — EVMTIO230D,100 g
@@ -504,17 +504,17 @@ TITANIUM DIOXIDE TABLETS,Titanium Dioxide,99.9% PURE,10mm diameter,3mm thick,€
 TITANIUM MONOXIDE PIECES,Titanium Monoxide,99.9% PURE,N/A,N/A,P.O.R., TiO    1KG LOT 3mm–6mm Pieces 1 kg 99.9% EVMTIO3-6KG,1 kg
 TITANIUM MONOXIDE TABLETS,Titanium Monoxide,99.9% PURE,8-9mm diameter,6-7mm thick,P.O.R., TiO    8mm–9mm Dia. x 6mm –7mm Thick Tablets 50 g 99.9% EVMTIO30TABB,50 g
 TITANIUM MONOXIDE TABLETS,Titanium Monoxide,99.9% PURE,8-9mm diameter,6-7mm thick,P.O.R., TiO    8mm–9mm Dia. x 6mm –7mm Thick Tablets 1 kg 99.9% EVMTIO30TABKG,1 kg
-TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/2" long,P.O.R., W    1 POUND 1/4" Dia. x 1/2" Length 99.95% EVMWX35QXH,1 POUND
-TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€309.00, W    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMW35QXQ,1 POUND
+TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/2" long,P.O.R., W    1 POUND 1/4" Dia. x 1/2" Length 99.95% EVMWX35QXH
+TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€309.00, W    1 POUND 1/4" Dia. x 1/4" Length 99.95% EVMW35QXQ
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€31.00, W    1/4" Dia. x 1/4" Length 25 g 99.95% EVMW35QXQA,25 g
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€56.00, W    1/4" Dia. x 1/4" Length 50 g 99.95% EVMW35QXQB,50 g
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€86.00, W    1/4" Dia. x 1/4" Length 100 g 99.95% EVMW35QXQD,100 g
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/4" diameter,1/4" long,€185.00, W    1/4" Dia. x 1/4" Length 250 g 99.95% EVMW35QXQJ,50 g
-TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/8" diameter,1/8" long,€1, W    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMW35EXE 015.00,1 POUND
+TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/8" diameter,1/8" long,€1, W    1 POUND 1/8" Dia. x 1/8" Length 99.95% EVMW35EXE 015.00
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/8" diameter,1/8" long,€80.00, W    1/8" Dia. x 1/8" Length 25 g 99.95% EVMW35EXEA,25 g
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/8" diameter,1/8" long,€138.00, W    1/8" Dia. x 1/8" Length 50 g 99.95% EVMW35EXEB,50 g
 TUNGSTEN PELLETS,Tungsten,99.95% PURE,1/8" diameter,1/8" long,€253.00, W    1/8" Dia. x 1/8" Length 100 g 99.95% EVMW35EXED,100 g
-TUNGSTEN WIRE,Tungsten,99.95% PURE,N/A,N/A,P.O.R., W    PER FOOT  +/-0.025MM DIA 0.1mm Dia. Per ft 99.95% EVMW35.1MMFT,PER FOOT
+TUNGSTEN WIRE,Tungsten,99.95% PURE,N/A,N/A,P.O.R., W    PER FOOT  +/-0.025MM DIA 0.1mm Dia. Per ft 99.95% EVMW35.1MMFT,per foot
 TUNGSTEN WIRE,Tungsten,99.95% PURE,0.2mm diameter,10 meters long,€95.00, W    FULLY ANNEALED 0.2mm Dia. 10m 99.95% EVMW35.2MM
 TUNGSTEN WIRE,Tungsten,99.95% PURE,0.5mm diameter,10 meters long,€113.00, W   0.5mm Dia. 10m 99.95% EVMW35.5MM
 TUNGSTEN WIRE,Tungsten,PURE,1mm diameter,5 meters long,P.O.R., W  99.94%   1.0mm Dia. 5m 99.95% EVMW341MMX5M
@@ -523,8 +523,8 @@ TUNGSTEN OXIDE PIECES,Tungsten Oxide,99.99% PURE,N/A,N/A,€110.00, WO3    50 GR
 TUNGSTEN OXIDE PIECES,Tungsten Oxide,99.99% PURE,N/A,N/A,€164.00, WO3    100 GRAMS 3mm - 12mm Pieces 100 g 99.99% EVMWOX3-12D,100 g
 N/A,Tungsten Oxide,99.99% pure),N/A,N/A,P.O.R., 1 kg  3mm - 12mm Pieces 1 kg 99.99% EVMWOX3-12KG,1 kg
 TUNGSTEN OXIDE PIECES,Tungsten Oxide,99.99% PURE,N/A,N/A,€589.00, WO3    500 GRAMS 3mm - 12mm Pieces 500 g 99.99% EVMWOX3-12T,500 g
-VANADIUM PELLETS,Vanadium,99.7% PURE,1/4" diameter,1/2" long,P.O.R., V    1 POUND 1/4" Dia. x 1/2" Length 99.7% EVMVX27QXH,1 POUND
-VANADIUM PELLETS,Vanadium,99.7% PURE,1/4" diameter,1/4" long,€1, V    1 POUND 1/4" Dia. x 1/4" Length 99.7% EVMVX27QXQ 677.00,1 POUND
+VANADIUM PELLETS,Vanadium,99.7% PURE,1/4" diameter,1/2" long,P.O.R., V    1 POUND 1/4" Dia. x 1/2" Length 99.7% EVMVX27QXH
+VANADIUM PELLETS,Vanadium,99.7% PURE,1/4" diameter,1/4" long,€1, V    1 POUND 1/4" Dia. x 1/4" Length 99.7% EVMVX27QXQ 677.00
 VANADIUM PELLETS,Vanadium,99.7% PURE,1/4" diameter,1/4" long,€405.00, V    1/4" Dia. x 1/4" Length 100 g 99.7% EVMVX27QXQD,100 g
 VANADIUM PELLETS,Vanadium,99.7% PURE,1/8" diameter,1/8" long,€605.00, V    1/8" Dia. x 1/8" Length 100 g 99.7% EVMVX27EXED,100 g
 YTTERBIUM PIECES,N/A,99.9% PURE TREM,N/A,N/A,P.O.R.,Ytterbium  Yb    50 GRAMS  PACKAGED IN ARGON 12mm 50 g 99.9% EVMYB-1044B,50 g
@@ -533,7 +533,7 @@ YTTERBIUM PIECES,N/A,N/A,N/A,N/A,P.O.R.,Ytterbium  Yb  99.9% TREM   300 GRAMS  P
 YTTERBIUM PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Ytterbium  Yb    100 GRAMS  PACKAGED IN ARGON < 5mm 100 g 99.9% EVMYBX5MM-D,100 g
 YTTERBIUM FLUORIDE PIECES,N/A,99.9% PURE,N/A,N/A,P.O.R.,Ytterbium Fluoride  YbF3    PRE-MELTED PIECES  500 GRAMS 1mm - 6mm 500 g 99.90% White to Grey EVMYBF301-6MMPMT,500 g
 YTTERBIUM FLUORIDE PIECES,N/A,99.9% PURE,N/A,N/A,€100.00,Ytterbium Fluoride  YbF3    50 GRAM 1mm - 6mm 50 g 99.9% White to Grey EVMYBF301-6MMPMB,50 g
-YTTERBIUM OXIDE PIECES,N/A,99.9% PURE,N/A,N/A,€1.55,Ytterbium Oxide  Yb2O3    PER GRAM 3mm - 12mm Per Gram 99.90% White EVMYBO303-12X,PER GRAM
+YTTERBIUM OXIDE PIECES,N/A,99.9% PURE,N/A,N/A,€1.55,Ytterbium Oxide  Yb2O3    PER GRAM 3mm - 12mm Per Gram 99.90% White EVMYBO303-12X,per gram
 YTTRIUM METAL PIECES,Yttrium,99.9% PURE EX TREM,N/A,N/A,P.O.R., Y    50 GRAMS < 12mm Pieces 50 g 99.9% EVMY3-1045B,50 g
 YTTRIUM METAL PIECES,Yttrium,99.9% PURE EX Ta,N/A,N/A,P.O.R., Y    200 GRAMS < 12mm Pieces 200 g 99.9% EVMY3-1045H,200 g
 YTTRIUM FLUORIDE PIECES,Yttrium Fluoride,99.99% PURE,N/A,N/A,P.O.R., YF3    MELTED  VACUUM DEPOSITION GRADE  100 GRAM LOT 1mm-5mm Pieces 100 g 99.99% White to Gray EVMYFL401-5D,100 g
@@ -542,9 +542,9 @@ YTTRIUM FLUORIDE PIECES,Yttrium Fluoride,99.99% PURE,N/A,N/A,P.O.R., YF3    MELT
 YTTRIUM FLUORIDE PIECES,Yttrium Fluoride,99.9% PURE,N/A,N/A,P.O.R., YF3    50 GRAMS  MELTED  VAC. DEP. GR. 3mm - 12mm Pieces 50 g 99.9% White EVMYFL30312B,50 g
 YTTRIUM FLUORIDE PIECES,Yttrium Fluoride,99.9% PURE,N/A,N/A,P.O.R., YF3    100 GRAMS  MELTED  VAC. DEP. GR. 3mm - 12mm Pieces 100 g 99.9% White EVMYFL30312D,100 g
 YTTRIUM FLUORIDE PIECES,Yttrium Fluoride,99.9% PURE,N/A,N/A,P.O.R., YF3    MELTED  VACUUM DEPOSITION GRADE  500 GRAM LOT 3mm - 12mm Pieces 500 g 99.9% White EVMYFL30312T,500 g
-YTTRIUM OXIDE PIECES,Yttrium Oxide,99.99% PURE,N/A,N/A,P.O.R., Y2O3    1 KILOGRAM LOT 2-5mm Pieces 1kg 99.99% EVMYO2-5MMKG,1 kilogram
+YTTRIUM OXIDE PIECES,Yttrium Oxide,99.99% PURE,N/A,N/A,P.O.R., Y2O3    1 KILOGRAM LOT 2-5mm Pieces 1kg 99.99% EVMYO2-5MMKG
 YTTRIUM OXIDE PIECES,Yttrium Oxide,99.99% PURE,N/A,N/A,€363.00, Y2O3   ~2-5MM   500 GRAMS 2-5mm Pieces 500g 99.99% EVMYO2-5MMT,500 g
-ZINC PELLETS,N/A,99.99% PURE,1/4" diameter,1/4" long,€253.00,Zinc  Zn    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMZN40QXQ,1 POUND
+ZINC PELLETS,N/A,99.99% PURE,1/4" diameter,1/4" long,€253.00,Zinc  Zn    1 POUND 1/4" Dia. x 1/4" Length 99.99% EVMZN40QXQ
 ZINC PELLETS,N/A,99.99% PURE,1/4" diameter,1/4" long,€47.00,Zinc  Zn    1/4" Dia. x 1/4" Length 50 g 99.99% EVMZN40QXQB,50 g
 ZINC PELLETS,N/A,99.99% PURE,1/4" diameter,1/4" long,€80.00,Zinc  Zn    1/4" Dia. x 1/4" Length 100 g 99.99% EVMZN40QXQD,100 g
 ZINC PELLETS,N/A,99.99% PURE,1/8" diameter,1/8" long,P.O.R.,Zinc  Zn    1/8" Dia. x 1/8" Length 100 g 99.99% EVMZN40EXED,100 g
@@ -556,17 +556,17 @@ ZINC SULFIDE PIECES,N/A,99.99% PURE,N/A,N/A,€158.00,Zinc Sulfide  ZnS    50 GR
 ZINC SULFIDE PIECES,N/A,99.99% PURE,N/A,N/A,€290.00,Zinc Sulfide  ZnS    100 GRAMS CVD GRADE  VAC. DEP. GRADE 3mm - 12mm Pieces 100 g 99.99% EVMZNS40312D,100 g
 ZINC SULFIDE PIECES,N/A,99.99% PURE,N/A,N/A,P.O.R.,Zinc Sulfide  ZnS    CVD GRADE/VAC. DEP. GRADE  1KG LOT 3mm - 12mm Pieces 1 kg 99.99% EVMZNS40312K,1 kg
 ZINC SULFIDE PIECES,N/A,99.99% PURE,N/A,N/A,P.O.R.,Zinc Sulfide  ZnS    500 GRAMS CVD GRADE  VAC. DEP. GRADE 3mm - 12mm Pieces 500 g 99.99% EVMZNS40312T,500 g
-EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/4" diameter,1/4" long,P.O.R., Zr    1 POUND 1/4" Dia. x 1/4" Length 1 lb. Grade 702 EVMZR30QXQ,1 POUND
+EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/4" diameter,1/4" long,P.O.R., Zr    1 POUND 1/4" Dia. x 1/4" Length 1 lb. Grade 702 EVMZR30QXQ,1 lb.
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/4" diameter,1/4" long,P.O.R., Zr    25 GRAMS 1/4" Dia. x 1/4" Length 25 g Grade 702 EVMZR30QXQA,25 g
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/4" diameter,1/4" long,P.O.R., Zr    50 GRAMS 1/4" Dia. x 1/4" Length 50 g Grade 702 EVMZR30QXQB,50 g
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/4" diameter,1/4" long,P.O.R., Zr    100 GRAMS 1/4" Dia. x 1/4" Length 100 g Grade 702 EVMZR30QXQD,100 g
-EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    1 POUND 1/8" Dia. x 1/8" Length 1 lb. Grade 702 EVMZR30EXE,1 POUND
+EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    1 POUND 1/8" Dia. x 1/8" Length 1 lb. Grade 702 EVMZR30EXE,1 lb.
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    25 GRAMS 1/8" Dia. x 1/8" Length 25 g Grade 702 EVMZR30EXEA,25 g
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    50 GRAMS 1/8" Dia. x 1/8" Length 50 g Grade 702 EVMZR30EXEB,50 g
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    100 GRAMS 1/8" Dia. x 1/8" Length 100 g Grade 702 EVMZR30EXED,100 g
 EUDF ZIRCONIUM PELLETS,Zirconium,N/A,1/8" diameter,1/8" long,P.O.R., Zr    1 KILOGRAM 1/8" Dia. x 1/8" Length 1 kg Grade 702 EVMZR30EXEKG,1 kg
 EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.9% PURE,N/A,N/A,P.O.R., ZrO2    BLACK  50 GRAMS 1mm-3mm Pieces 50 g 99.9% Black — EVMZROX1-3MMB,50 g
-EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.7% PURE,N/A,N/A,P.O.R., ZrO2    PER GRAM 1mm-6mm Pieces Per Gram 99.7% White EVMZRO271-6X,PER GRAM
+EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.7% PURE,N/A,N/A,P.O.R., ZrO2    PER GRAM 1mm-6mm Pieces Per Gram 99.7% White EVMZRO271-6X,per gram
 EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.7% PURE,N/A,N/A,P.O.R., ZrO2    500 GRAMS  WHITE 3mm-12mm Pieces 500 g 99.7% White — EVMZRO273-12,500 g
 EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.7% PURE,N/A,N/A,P.O.R., ZrO2    50 GRAMS  WHITE 3mm-12mm Pieces 50 g 99.7% White — EVMZRO273-12B,50 g
 EUDF ZIRCONIUM OXIDE PIECES,Zirconium Oxide,99.7% PURE,N/A,N/A,P.O.R., ZrO2    100 GRAMS  WHITE 3mm-12mm Pieces 100g 99.7% White — EVMZRO273-12D,100 g

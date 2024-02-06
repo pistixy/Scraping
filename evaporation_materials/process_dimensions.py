@@ -1,4 +1,12 @@
 def process_dimensions(input_file, output_file):
+    quantities = [
+    "50 g", "100 g", "250 g", "1 kg",
+    "25 g", "50 g", "100 g", "250 g", "79mg", "300 GRAMS",
+    "500 g", "1 POUND", "25 g", "50 g", "25 GRAMS", "50 GRAMS", "1 kilogram",
+    "100 g", "250 g", "2 lbs", "75 g",  "200g", "500g", "PER FOOT", "per foot", "100g"
+    "300 g", "0.5 kg", "10 g", "20 lb","139 mg","40 mg","25 mg","35 mg","406 mg","PER GRAM", "per gram", "per g", "SOLD BY THE FOOT",
+    "30 g", "40 g", "1.5 kg", "200 g", "ONE POUND", "2 pounds","24-lb", "24 POUNDS", "1 lb.", "400 mg", "406 mg", "400mg", "406mg"
+]
     with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
         # Read the header and write it back into the output file
         # Assuming the first line is the header
@@ -36,6 +44,15 @@ def process_dimensions(input_file, output_file):
                 parts[4] = length
             else:
                 parts.insert(4, length)  # Insert length after diameter if not
+                
+            quantity=""    
+            print(parts[6])
+            for i in quantities:
+                if i.lower() in parts[6].lower():
+                    print(i)
+                    quantity=i
+                    parts.insert(8, quantity)
+                    break
 
             # Write the new line to the output file
             outfile.write(','.join(parts) + '\n')

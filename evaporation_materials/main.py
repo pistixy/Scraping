@@ -13,7 +13,7 @@ extracted_links="extracted_links.txt"
 raw_data="raw_data.txt"
 processed_data="processed_data.txt"
 output="output.txt"
-column_names = ['Name', 'Material','Purity', 'Diameter','Lenght',  'Price', "Rest"]
+column_names = ['Name', 'Material','Purity', 'Diameter','Lenght',  'Price', "Quantity", "Rest"]
 
 current_folder=get_timestamp()
 if (is_folder_empty(base_folder_path)):
@@ -24,10 +24,10 @@ else:
 folder_path=base_folder_path +"/"+current_folder
 
 if (get_links(url,folder_path + "/" + extracted_links)):
-    if (scrape_and_save_data(folder_path + "/" + extracted_links, folder_path + "/" + raw_data)):
-        process_data(folder_path + "/" + raw_data, folder_path + "/" + processed_data)
-        process_dimensions(folder_path + "/" + processed_data,folder_path + "/" + output )
-        add_column_names_to_file(folder_path + "/" + output, column_names)
-        print("Successful scraping!")
-        copy_output_to_data(base_folder_path +"/" + current_folder, base_folder_path, file_name=output)
+    #if (scrape_and_save_data(folder_path + "/" + extracted_links, folder_path + "/" + raw_data)):
+    process_data(folder_path + "/" + raw_data, folder_path + "/" + processed_data)
+    process_dimensions(folder_path + "/" + processed_data,folder_path + "/" + output )
+    add_column_names_to_file(folder_path + "/" + output, column_names)
+    print("Successful scraping!")
+    copy_output_to_data(base_folder_path +"/" + current_folder, base_folder_path, file_name=output)
 

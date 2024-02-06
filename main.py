@@ -5,7 +5,7 @@ subfolder_paths = [
     'EURUSD/main.py',
     'MSE/evaporation_materials/main.py',
     'sputtering_targets/main.py',
-    'evaporation_materials/main.py'  # This seems redundant with the second path
+    'evaporation_materials/main.py' 
 ]
 
 # Iterate over each path and run the script using subprocess
