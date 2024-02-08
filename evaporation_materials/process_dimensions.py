@@ -46,7 +46,6 @@ def process_dimensions(input_file, output_file):
                 parts.insert(4, length)  # Insert length after diameter if not
                 
             quantity=""    
-            print(parts[6])
             for i in quantities:
                 if i.lower() in parts[6].lower():
                     print(i)
