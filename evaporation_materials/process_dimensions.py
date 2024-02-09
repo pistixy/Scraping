@@ -48,7 +48,6 @@ def process_dimensions(input_file, output_file):
             quantity=""    
             for i in quantities:
                 if i.lower() in parts[6].lower():
-                    print(i)
                     quantity=i
                     parts.insert(8, quantity)
                     break

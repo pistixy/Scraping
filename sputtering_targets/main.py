@@ -30,5 +30,7 @@ if (get_links(url,folder_path + "/" + extracted_links)):
         add_mm_columns(folder_path + "/" + processed_data,  folder_path + "/" + output)
         add_column_names_to_file(folder_path + "/" + output, column_names)
         print("Successful scraping!")
+        
         copy_output_to_data(base_folder_path +"/" + current_folder, base_folder_path, file_name=output)
+
 
