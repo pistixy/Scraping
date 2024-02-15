@@ -1,0 +1,12 @@
+Description,Wall Thickness,Part Number,Price
+Aluminum Oxide,EVCEF-1AO,€100.00
+Boron Nitride,EVCEF-1BN,P.O.R.
+Quartz Crucible,EVCEF-1Q,P.O.R.
+Aluminum Oxide,EVCEF-10AO,€330.00
+Boron Nitride,EVCEF-10BN,P.O.R.
+Pyrolytic Boron Nitride,EVCEF-10PBN,P.O.R.
+Quartz,EVCEF-10Q,P.O.R.
+Aluminum Oxide,EVCEFH-1AO,€157.00
+Boron Nitride,—,EVCEFH-1BN,P.O.R.
+Pyrolytic Boron Nitride,—,EVCEFH-1PBN,P.O.R.
+Quartz,EVCEFH-1Q,€116.00

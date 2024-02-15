@@ -1,0 +1,79 @@
+Description,Wall Thickness,Part Number,Price
+Aluminum Oxide,0.040,EVC1AO,€41.00
+Aluminum Oxide,0.060,EVC5AO,€53.00
+Aluminum Oxide,0.070,EVC6AO,€96.00
+Aluminum Oxide,0.040,EVC9AO,€42.00
+Aluminum Oxide,0.040,EVC1AO,€41.00
+Aluminum Oxide,0.060,EVC5AO,€53.00
+Aluminum Oxide,0.070,EVC6AO,€96.00
+Aluminum Oxide,0.040,EVC9AO,€42.00
+Boron Nitride,0.040,EVC1BN,€50.00
+Boron Nitride,0.060,EVC5BN,€152.00
+Boron Nitride,0.06,EVC7BN,€78.00
+Boron Nitride,0.0625,EVC8BN,€131.00
+Boron Nitride,0.040,EVC9BN,€50.00
+Boron Nitride,0.047,EVC10BN,€36.00
+Boron Nitride,0.040,EVC1BN,€50.00
+Boron Nitride,0.060,EVC5BN,€152.00
+Boron Nitride,0.06,EVC7BN,€78.00
+Boron Nitride,0.0625,EVC8BN,€131.00
+Boron Nitride,0.040,EVC9BN,€50.00
+Boron Nitride,0.047,EVC10BN,€36.00
+Carbon,0.090,EVC4C,€60.00
+Carbon,0.06,EVC7C,€50.00
+Carbon,0.0625,EVC8C,€55.00
+Carbon,0.040,EVC9C,€34.00
+Carbon,0.047,EVC10C,€27.00
+Carbon,0.090,EVC4C,€60.00
+Carbon,0.06,EVC7C,€50.00
+Carbon,0.0625,EVC8C,€55.00
+Carbon,0.040,EVC9C,€34.00
+Carbon,0.047,EVC10C,€27.00
+Intermetallic,0.063,EVC5INTSPL01,€204.00
+Intermetallic,0.070,EVC5INTSPL03,€280.00
+Intermetallic,0.043,EVC9INTSPL01,€143.00
+Intermetallic,0.070,EVC5INTSPL02,€107.00
+Intermetallic,0.040,EVC9INT,€100.00
+Intermetallic,0.063,EVC5INTSPL01,€204.00
+Intermetallic,0.070,EVC5INTSPL03,€280.00
+Intermetallic,0.043,EVC9INTSPL01,€143.00
+Intermetallic,0.070,EVC5INTSPL02,€107.00
+Intermetallic,0.040,EVC9INT,€100.00
+Quartz,0.040,EVC1Q,€39.00
+Quartz,0.050,EVC2Q,€44.00
+Quartz,0.070,EVC3Q,€99.00
+Quartz,0.06,EVC7Q,€52.00
+Quartz,0.0625,EVC8Q,€57.00
+Quartz,0.040,EVC9Q,€41.00
+Quartz,0.047,EVC10Q,€32.00
+Quartz,0.060,EVC5Q,€52.00
+Quartz,0.070,EVC6Q,€94.00
+Quartz,0.040,EVC1Q,€39.00
+Quartz,0.050,EVC2Q,€44.00
+Quartz,0.070,EVC3Q,€99.00
+Quartz,0.06,EVC7Q,€52.00
+Quartz,0.0625,EVC8Q,€57.00
+Quartz,0.040,EVC9Q,€41.00
+Quartz,0.047,EVC10Q,€32.00
+Quartz,0.060,EVC5Q,€52.00
+Quartz,0.070,EVC6Q,€94.00
+Molybdenum,0.090,EVC4MO,€227.00
+Molybdenum,0.06,EVC7MO,€245.00
+Molybdenum,0.0625,EVC8MO,€297.00
+Molybdenum,0.040,EVC9MO,€149.00
+Molybdenum,0.047,EVC10MO,€130.00
+Molybdenum,0.090,EVC4MO,€227.00
+Molybdenum,0.06,EVC7MO,€245.00
+Molybdenum,0.0625,EVC8MO,€297.00
+Molybdenum,0.040,EVC9MO,€149.00
+Molybdenum,0.047,EVC10MO,€130.00
+Tantalum,0.090,EVC4TA,P.O.R.
+Tantalum,0.06,EVC7TA,€453.00
+Tantalum,0.0625,EVC8TA,€714.00
+Tantalum,0.040,EVC9TA,€418.00
+Tantalum,0.047,EVC10TA,€383.00
+Tantalum,0.090,EVC4TA,P.O.R.
+Tantalum,0.06,EVC7TA,€453.00
+Tantalum,0.0625,EVC8TA,€714.00
+Tantalum,0.040,EVC9TA,€418.00
+Tantalum,0.047,EVC10TA,€383.00

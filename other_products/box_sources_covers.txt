@@ -1,0 +1,13 @@
+Description,No. per Pack, Part Number,Price
+B1: Holed Cover,1,EVSSB1A,€123.00
+B1: Sieve Cover,1,EVSSB1B,€128.00
+B2: Holed Cover,1,EVSSB2A,€62.00
+B2: Sieve Cover,1,EVSSB2B,€68.00
+B3: Holed Cover,1,EVSSB3A,€44.00
+B3: Sieve Cover,1,EVSSB3B,€53.00
+B4: Holed Cover,1,EVSSB4A,€68.00
+B4: Sieve Cover,1,EVSSB4B,€78.00
+B5: Holed Cover,1,EVSSB5A,€53.00
+B5: Sieve Cover,1,EVSSB5B,€60.00
+B6: Holed Cover,1,EVSSB6A,€51.00
+B6: Sieve Cover,1,EVSSB6B,€79.00

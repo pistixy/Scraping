@@ -20,19 +20,19 @@ def scrape_and_save_data(file_input_path, file_output_path):
             soup = BeautifulSoup(response.content, 'html.parser')
 
             # Find the 'tbody' within the table; this is where you want to extract the data
-            tbody = soup.find('tbody')
-            if tbody:
-                # Assuming each row 'tr' contains the data of interest
-                rows = tbody.find_all('tr')
-                for row in rows:
-                    # Extract the text from each row
-                    text = row.get_text(separator=',', strip=True)  # Use a comma as separator between cells
-                    all_data.append(text)
+            tbodies = soup.findAll('tbody')
+            for tbody in tbodies:
+                if tbody:
+                    # Assuming each row 'tr' contains the data of interest
+                    rows = tbody.find_all('tr')
+                    for row in rows:
+                        # Extract the text from each row
+                        text = row.get_text(separator=',', strip=True)  # Use a comma as separator between cells
+                        all_data.append(text)
+                else:
+                    print(f"No data found in the table for URL: {link}")
                 print("link visited. ",i,"/",len(urls))
                 i=i+1
-            else:
-                print(f"No data found in the table for URL: {link}")
-
         except requests.HTTPError as http_err:
             print(f'HTTP error occurred while retrieving {link}: {http_err}')
         except Exception as err:

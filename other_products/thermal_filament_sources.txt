@@ -1,0 +1,181 @@
+Material,Description,No. per pack,Volts,Amps,Watts,Temp.,Part Number,Price
+Tungsten,1 Wire x 0.040" Diameter,5,3.07,36,111,1800°C,EVF1040W,€38.00
+Tungsten,3 Wires x 0.025" Diameter,5,3.00,42,126,1800°C,EVF13025W,€42.00
+Tungsten,3 Wires x 0.030" Diameter,5,2.94,54,159,1800°C,EVF13030W,€47.00
+Tungsten,3 Wires x 0.025" Diameter,5,3.43,49,168,1800°C,EVF23025W,€34.00
+Tungsten,3 Wires x 0.030" Diameter,5,3.08,63,194,1800°C,EVF23030W,€37.00
+Tungsten,4 Wires x 0.030" Diameter,5,2.70,77,208,1800°C,EVF24030W,€41.00
+Tungsten,1 Wire x 0.040" Diameter,5,3.91,39,152,1800°C,EVF3040W,€37.00
+Tungsten,2 Wires x 0.040" Diameter,5,4.00,68,272,1800°C,EVF32040W,€47.00
+Tungsten,3 Wires x 0.025" Diameter,5,4.61,48,221,1800°C,EVF33025W,€38.00
+Tungsten,3 Wires x 0.030" Diameter,5,4.15,60,249,1800°C,EVF33030W,€41.00
+Tungsten,4 Wires x 0.030" Diameter,5,4.00,77,308,1800°C,EVF34030W,€51.00
+Tungsten,1 Wire x 0.040" Diameter,5,3.70,38,141,1800°C,EVF4040W,€34.00
+Tungsten,2 Wires x 0.040" Diameter,5,3.97,66,262,1800°C,EVF42040W,€51.00
+Tungsten,3 Wires x 0.025" Diameter,5,5.29,48,254,1800°C,EVF43025W,€37.00
+Tungsten,3 Wires x 0.030" Diameter,5,4.28,62,265,1800°C,EVF43030W,€41.00
+Tungsten,4 Wires x 0.030" Diameter,5,3.63,73,265,1800°C,EVF44030W,€47.00
+Tungsten,1 Wire x 0.040" Diameter,5,6.90,37,255,1800°C,EVF5040W,€45.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.82,64,436,1800°C,EVF52040W,P.O.R.
+Tungsten,3 Wires x 0.025" Diameter,5,8.05,45,362,1800°C,EVF53025W,€53.00
+Tungsten,3 Wires x 0.030" Diameter,5,6.58,57,375,1800°C,EVF53030W,€71.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.60,83,465,1800°C,EVF53040W,€75.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.10,69,421,1800°C,EVF54030W,€72.00
+Tungsten,2 Wires x 0.040" Diameter,5,7.20,64,461,1800°C,EVF62040W,€72.00
+Tungsten,3 Wires x 0.025" Diameter,5,8.72,44,384,1800°C,EVF63025W,€53.00
+Tungsten,3 Wires x 0.030" Diameter,5,8.25,58,478,1800°C,EVF63030W,€58.00
+Tungsten,3 Wires x 0.040" Diameter,5,6.42,84,539,1800°C,EVF63040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,7.29,71,518,1800°C,EVF64030W,€69.00
+Tungsten,2 Wires x 0.040" Diameter,5,10.97,55,603,1800°C,EVF72040W,€103.00
+Tungsten,3 Wires x 0.030" Diameter,5,11.65,52,606,1800°C,EVF73030W,€89.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.40,78,733,1800°C,EVF73040W,€26.00
+Tungsten,4 Wires x 0.030" Diameter,5,10.31,65,670,1800°C,EVF74030W,€101.00
+Tungsten,2 Wires x 0.040" Diameter,5,5.00,66,330,1800°C,EVF82040W,€63.00
+Tungsten,3 Wires x 0.030" Diameter,5,5.39,62,334,1800°C,EVF83030W,€48.00
+Tungsten,3 Wires x 0.040" Diameter,5,4.61,87,401,1800°C,EVF83040W,€71.00
+Tungsten,4 Wires x 0.030" Diameter,5,5.09,74,377,1800°C,EVF84030W,€62.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.66,65,433,1800°C,EVF92040W,€68.00
+Tungsten,3 Wires x 0.030" Diameter,5,6.50,57,370,1800°C,EVF93030W,€67.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.43,86,467,1800°C,EVF93040W,€82.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.07,71,431,1800°C,EVF94030W,€68.00
+Tungsten,2 Wires x 0.040" Diameter,5,10.2,61,648,1800°C,EVF102040W,P.O.R.
+Tungsten,3 Wires x 0.030" Diameter,5,10.90,55,600,1800°C,EVF103030W,€85.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.02,83,749,1800°C,EVF103040W,€24.00
+Tungsten,4 Wires x 0.030" Diameter,5,10.00,68,680,1800°C,EVF104030W,€98.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.74,65,438,1800°C,EVF112040W,€77.00
+Tungsten,3 Wires x 0.030" Diameter,5,7.07,58,410,1800°C,EVF113030W,€68.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.70,87,496,1800°C,EVF113040W,€94.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.40,70,443,1800°C,EVF114030W,€74.00
+Tungsten,3 Wires x 0.025" Diameter,5,4.44,46,204,1800°C,EVF123025W,€37.00
+Tungsten,3 Wires x 0.030" Diameter,5,3.82,57,218,1800°C,EVF123030W,€40.00
+Tungsten,3 Wires x 0.025" Diameter,5,11.00,44,484,1800°C,EVF133025W,€54.00
+Tungsten,3 Wires x 0.030" Diameter,5,9.06,57,516,1800°C,EVF133030W,€68.00
+Tungsten,4 Wires x 0.030" Diameter,5,8.59,71,610,1800°C,EVF134030W,€77.00
+Tungsten,3 Wires x 0.030" Diameter,5,9.44,56,529,1800°C,EVF143030W,P.O.R.
+Tungsten,3 Wires x 0.040" Diameter,5,8.20,88,722,1800°C,EVF143040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,8.80,68,598,1800°C,EVF144030W,P.O.R.
+Tungsten,3 Wires x 0.030" Diameter,5,11.53,57,657,1800°C,EVF153030W,€82.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.66,85,821,1800°C,EVF153040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,10.63,70,744,1800°C,EVF154030W,€90.00
+Tungsten,1 Wire x 0.040" Diameter,5,3.07,36,111,1800°C,EVF1040W,€38.00
+Tungsten,3 Wires x 0.025" Diameter,5,3.00,42,126,1800°C,EVF13025W,€42.00
+Tungsten,3 Wires x 0.030" Diameter,5,2.94,54,159,1800°C,EVF13030W,€47.00
+Tungsten,3 Wires x 0.025" Diameter,5,3.43,49,168,1800°C,EVF23025W,€34.00
+Tungsten,3 Wires x 0.030" Diameter,5,3.08,63,194,1800°C,EVF23030W,€37.00
+Tungsten,4 Wires x 0.030" Diameter,5,2.70,77,208,1800°C,EVF24030W,€41.00
+Tungsten,1 Wire x 0.040" Diameter,5,3.91,39,152,1800°C,EVF3040W,€37.00
+Tungsten,2 Wires x 0.040" Diameter,5,4.00,68,272,1800°C,EVF32040W,€47.00
+Tungsten,3 Wires x 0.025" Diameter,5,4.61,48,221,1800°C,EVF33025W,€38.00
+Tungsten,3 Wires x 0.030" Diameter,5,4.15,60,249,1800°C,EVF33030W,€41.00
+Tungsten,4 Wires x 0.030" Diameter,5,4.00,77,308,1800°C,EVF34030W,€51.00
+Tungsten,1 Wire x 0.040" Diameter,5,3.70,38,141,1800°C,EVF4040W,€34.00
+Tungsten,2 Wires x 0.040" Diameter,5,3.97,66,262,1800°C,EVF42040W,€51.00
+Tungsten,3 Wires x 0.025" Diameter,5,5.29,48,254,1800°C,EVF43025W,€37.00
+Tungsten,3 Wires x 0.030" Diameter,5,4.28,62,265,1800°C,EVF43030W,€41.00
+Tungsten,4 Wires x 0.030" Diameter,5,3.63,73,265,1800°C,EVF44030W,€47.00
+Tungsten,1 Wire x 0.040" Diameter,5,6.90,37,255,1800°C,EVF5040W,€45.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.82,64,436,1800°C,EVF52040W,P.O.R.
+Tungsten,3 Wires x 0.025" Diameter,5,8.05,45,362,1800°C,EVF53025W,€53.00
+Tungsten,3 Wires x 0.030" Diameter,5,6.58,57,375,1800°C,EVF53030W,€71.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.60,83,465,1800°C,EVF53040W,€75.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.10,69,421,1800°C,EVF54030W,€72.00
+Tungsten,2 Wires x 0.040" Diameter,5,7.20,64,461,1800°C,EVF62040W,€72.00
+Tungsten,3 Wires x 0.025" Diameter,5,8.72,44,384,1800°C,EVF63025W,€53.00
+Tungsten,3 Wires x 0.030" Diameter,5,8.25,58,478,1800°C,EVF63030W,€58.00
+Tungsten,3 Wires x 0.040" Diameter,5,6.42,84,539,1800°C,EVF63040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,7.29,71,518,1800°C,EVF64030W,€69.00
+Tungsten,2 Wires x 0.040" Diameter,5,10.97,55,603,1800°C,EVF72040W,€103.00
+Tungsten,3 Wires x 0.030" Diameter,5,11.65,52,606,1800°C,EVF73030W,€89.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.40,78,733,1800°C,EVF73040W,€26.00
+Tungsten,4 Wires x 0.030" Diameter,5,10.31,65,670,1800°C,EVF74030W,€101.00
+Tungsten,2 Wires x 0.040" Diameter,5,5.00,66,330,1800°C,EVF82040W,€63.00
+Tungsten,3 Wires x 0.030" Diameter,5,5.39,62,334,1800°C,EVF83030W,€48.00
+Tungsten,3 Wires x 0.040" Diameter,5,4.61,87,401,1800°C,EVF83040W,€71.00
+Tungsten,4 Wires x 0.030" Diameter,5,5.09,74,377,1800°C,EVF84030W,€62.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.66,65,433,1800°C,EVF92040W,€68.00
+Tungsten,3 Wires x 0.030" Diameter,5,6.50,57,370,1800°C,EVF93030W,€67.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.43,86,467,1800°C,EVF93040W,€82.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.07,71,431,1800°C,EVF94030W,€68.00
+Tungsten,2 Wires x 0.040" Diameter,5,10.2,61,648,1800°C,EVF102040W,P.O.R.
+Tungsten,3 Wires x 0.030" Diameter,5,10.90,55,600,1800°C,EVF103030W,€85.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.02,83,749,1800°C,EVF103040W,€24.00
+Tungsten,4 Wires x 0.030" Diameter,5,10.00,68,680,1800°C,EVF104030W,€98.00
+Tungsten,2 Wires x 0.040" Diameter,5,6.74,65,438,1800°C,EVF112040W,€77.00
+Tungsten,3 Wires x 0.030" Diameter,5,7.07,58,410,1800°C,EVF113030W,€68.00
+Tungsten,3 Wires x 0.040" Diameter,5,5.70,87,496,1800°C,EVF113040W,€94.00
+Tungsten,4 Wires x 0.030" Diameter,5,6.40,70,443,1800°C,EVF114030W,€74.00
+Tungsten,3 Wires x 0.025" Diameter,5,4.44,46,204,1800°C,EVF123025W,€37.00
+Tungsten,3 Wires x 0.030" Diameter,5,3.82,57,218,1800°C,EVF123030W,€40.00
+Tungsten,3 Wires x 0.025" Diameter,5,11.00,44,484,1800°C,EVF133025W,€54.00
+Tungsten,3 Wires x 0.030" Diameter,5,9.06,57,516,1800°C,EVF133030W,€68.00
+Tungsten,4 Wires x 0.030" Diameter,5,8.59,71,610,1800°C,EVF134030W,€77.00
+Tungsten,3 Wires x 0.030" Diameter,5,9.44,56,529,1800°C,EVF143030W,P.O.R.
+Tungsten,3 Wires x 0.040" Diameter,5,8.20,88,722,1800°C,EVF143040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,8.80,68,598,1800°C,EVF144030W,P.O.R.
+Tungsten,3 Wires x 0.030" Diameter,5,11.53,57,657,1800°C,EVF153030W,€82.00
+Tungsten,3 Wires x 0.040" Diameter,1,9.66,85,821,1800°C,EVF153040W,P.O.R.
+Tungsten,4 Wires x 0.030" Diameter,5,10.63,70,744,1800°C,EVF154030W,€90.00
+Tungsten,1 Wire x 0.040" Diameter,1,7.9,31,245,1800°C,EVH1040W,€23.00
+Tungsten,1 Wire x 0.060" Diameter,1,6.1,71,433,1800°C,EVH1060W,€23.00
+Tungsten,1 Wire x 0.040" Diameter,5,4.18,36,150,1800°C,EVH2040W,€103.00
+Tungsten,1 Wire x 0.060" Diameter (Has 1 Less Turn than Shown),5,2.83,69,195,1800°C,EVH2060W,€108.00
+Tungsten,1 Wire x 0.040" Diameter,5,7.39,34,251,1800°C,EVH3040W,€110.00
+Tungsten,1 Wire x 0.060" Diameter (Has 2 Less Turns than Shown),1,5.22,63,329,1800°C,EVH3060W,€24.00
+Tungsten,1 Wire x 0.040" Diameter,1,7.9,31,245,1800°C,EVH1040W,€23.00
+Tungsten,1 Wire x 0.060" Diameter,1,6.1,71,433,1800°C,EVH1060W,€23.00
+Tungsten,1 Wire x 0.040" Diameter,5,4.18,36,150,1800°C,EVH2040W,€103.00
+Tungsten,1 Wire x 0.060" Diameter (Has 1 Less Turn than Shown),5,2.83,69,195,1800°C,EVH2060W,€108.00
+Tungsten,1 Wire x 0.040" Diameter,5,7.39,34,251,1800°C,EVH3040W,€110.00
+Tungsten,1 Wire x 0.060" Diameter (Has 2 Less Turns than Shown),1,5.22,63,329,1800°C,EVH3060W,€24.00
+Tungsten, 1 Wire x 0.060" Diameter,5,2.08,73,152,1800°C,EVSP1060W,€51.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.95,50,148,1800°C,EVSP13025W,€32.00
+Tungsten, 3 Wires x 0.030" Diameter,5,2.36,65,153,1800°C,EVSP13030W,€38.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.76,80,221,1800°C,EVSP14030W,P.O.R.
+Tungsten, 3 Wires x 0.030" Diameter,5,2.78,69,192,1800°C,EVSP73030W,€105.00
+Tungsten, 4 Wires x 0.030" Diameter,1,2.42,87,211,1800°C,EVSP74030W,P.O.R.
+Tungsten, 1 Wire x 0.060" Diameter,5,1.84,75,138,1800°C,EVSP2060W,€52.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.83,48,136,1800°C,EVSP23025W,€33.00
+Tungsten, 3 Wires x 0.030" Diameter,5,3.56,78,278,1800°C,EVSP23030W,€40.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.04,82,167,1800°C,EVSP24030W,€48.00
+Tungsten, 1 Wire x 0.040" Diameter,5,1.94,42,81,1800°C,EVSP6040W,€51.00
+Tungsten, 1 Wire x 0.060" Diameter,5,1.46,75,109,1800°C,EVSP6060W,€52.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.08,51,106,1800°C,EVSP63025W,€42.00
+Tungsten, 1 Wire x 0.060" Diameter,5,1.39,79,110,1800°C,EVSP3060W,€43.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.26,50,113,1800°C,EVSP33025W,€32.00
+Tungsten, 3 Wires x 0.030" Diameter,5,1.94,64,124,1800°C,EVSP33030W,€37.00
+Tungsten, 4 Wires x 0.030" Diameter,5,1.59,84,134,1800°C,EVSP34030W,€45.00
+Tungsten, 1 Wire x 0.060" Diameter,5,2.04,74,151,1800°C,EVSP4060W,€47.00
+Tungsten, 3 Wires x 0.025" Diameter,5,3.20,51,163,1800°C,EVSP43025W,P.O.R.
+Tungsten, 3 Wires x 0.030" Diameter,5,2.04,64,131,1800°C,EVSP43030W,€42.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.69,80,215,1800°C,EVSP44030W,€48.00
+Tungsten, 1 Wire x 0.040" Diameter,5,3.44,40,138,1800°C,EVSP5040W,€62.00
+Tungsten, 1 Wire x 0.060" Diameter,5,3.09,71,219,1800°C,EVSP5060W,€68.00
+Tungsten, 3 Wires x 0.025" Diameter,5,3.80,51,194,1800°C,EVSP53025W,€58.00
+Tungsten, 3 Wires x 0.030" Diameter,5,3.50,66,231,1800°C,EVSP53030W,€62.00
+Tungsten, 4 Wires x 0.030" Diameter,5,3.13,79,247,1800°C,EVSP54030W,€68.00
+Tungsten, 1 Wire x 0.060" Diameter,5,2.08,73,152,1800°C,EVSP1060W,€51.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.95,50,148,1800°C,EVSP13025W,€32.00
+Tungsten, 3 Wires x 0.030" Diameter,5,2.36,65,153,1800°C,EVSP13030W,€38.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.76,80,221,1800°C,EVSP14030W,P.O.R.
+Tungsten, 3 Wires x 0.030" Diameter,5,2.78,69,192,1800°C,EVSP73030W,€105.00
+Tungsten, 4 Wires x 0.030" Diameter,1,2.42,87,211,1800°C,EVSP74030W,P.O.R.
+Tungsten, 1 Wire x 0.060" Diameter,5,1.84,75,138,1800°C,EVSP2060W,€52.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.83,48,136,1800°C,EVSP23025W,€33.00
+Tungsten, 3 Wires x 0.030" Diameter,5,3.56,78,278,1800°C,EVSP23030W,€40.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.04,82,167,1800°C,EVSP24030W,€48.00
+Tungsten, 1 Wire x 0.040" Diameter,5,1.94,42,81,1800°C,EVSP6040W,€51.00
+Tungsten, 1 Wire x 0.060" Diameter,5,1.46,75,109,1800°C,EVSP6060W,€52.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.08,51,106,1800°C,EVSP63025W,€42.00
+Tungsten, 1 Wire x 0.060" Diameter,5,1.39,79,110,1800°C,EVSP3060W,€43.00
+Tungsten, 3 Wires x 0.025" Diameter,5,2.26,50,113,1800°C,EVSP33025W,€32.00
+Tungsten, 3 Wires x 0.030" Diameter,5,1.94,64,124,1800°C,EVSP33030W,€37.00
+Tungsten, 4 Wires x 0.030" Diameter,5,1.59,84,134,1800°C,EVSP34030W,€45.00
+Tungsten, 1 Wire x 0.060" Diameter,5,2.04,74,151,1800°C,EVSP4060W,€47.00
+Tungsten, 3 Wires x 0.025" Diameter,5,3.20,51,163,1800°C,EVSP43025W,P.O.R.
+Tungsten, 3 Wires x 0.030" Diameter,5,2.04,64,131,1800°C,EVSP43030W,€42.00
+Tungsten, 4 Wires x 0.030" Diameter,5,2.69,80,215,1800°C,EVSP44030W,€48.00
+Tungsten, 1 Wire x 0.040" Diameter,5,3.44,40,138,1800°C,EVSP5040W,€62.00
+Tungsten, 1 Wire x 0.060" Diameter,5,3.09,71,219,1800°C,EVSP5060W,€68.00
+Tungsten, 3 Wires x 0.025" Diameter,5,3.80,51,194,1800°C,EVSP53025W,€58.00
+Tungsten, 3 Wires x 0.030" Diameter,5,3.50,66,231,1800°C,EVSP53030W,€62.00
+Tungsten, 4 Wires x 0.030" Diameter,5,3.13,79,247,1800°C,EVSP54030W,€68.00
