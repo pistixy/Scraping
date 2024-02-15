@@ -1,5 +1,5 @@
  | bid | ask
-Gold €/kg | 59738.60 | 59876.50
-Silver €/kg | 670.16 | 682.48
-Platinum €/kg |  | 
-Palladium €/kg |  | 
+Gold €/kg | 59729.00 | 59870.00
+Silver €/kg | 669.16 | 681.58
+Platinum €/kg | 25500.50 | 27363.60
+Palladium €/kg | 28284.50 | 29504.00
