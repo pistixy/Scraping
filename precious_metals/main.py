@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
+from datetime import datetime
 
 def convert_to_number(string_value):
     # Remove dots for thousand separator
@@ -23,7 +24,7 @@ chrome_options.add_argument('--ignore-certificate-errors')  # Ignore SSL certifi
 
 
 # Set path to chromedriver as per your configuration
-webdriver_service = Service("C:/Users/User1/Dropbox/PhotonExport_Istvan/Scraping/precious_metals/chromedriver-win64/chromedriver.exe")
+webdriver_service = Service("precious_metals/chromedriver-win64/chromedriver.exe")
 
 # Choose Chrome Browser
 driver = webdriver.Chrome(service=webdriver_service, options=chrome_options)
@@ -47,8 +48,11 @@ table_list = []
 
 # Start from the second row to skip the header
 with open('precious_metals/metals_data.txt','w', encoding='utf-8') as file:
-    table_list.append([' ','bid','ask'])
-    file.write(delimiter.join(['','bid','ask']))
+    # Convert datetime to string and format it
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    header = [current_time, 'bid', 'ask']
+    table_list.append(header)
+    file.write(delimiter.join(header))
     file.write('\n')
     for row in rows[1:]:  # assuming the first row is the header
         row_list = []
